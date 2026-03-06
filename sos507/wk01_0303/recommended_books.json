@@ -1,0 +1,29 @@
+{
+    "pre-reading": [
+        {
+            "title": "science_and_technology_in_world_history",
+            "kor_title": "과학과 기술로 본 세계사 강의",
+            "author": "James E. McClellan III & Harold Dorn",
+            "pub_year": 2006
+        },
+        {
+            "title": "making modern science",
+            "kor_title": "현대 과학의 풍경",
+            "author": "Peter Bowler",
+            "pub_year": 2008
+        },
+        {
+            "title": "과학혁명 - 전통적 관점과 새로운 관점",
+            "kor_title": "과학혁명 - 전통적 관점과 새로운 관점",
+            "author": "이규희",
+            "pub_year": 2001
+        }
+    ],
+    "main-reading": [
+        {
+            "title": "ways of knowing: a new history of science, technology and medicine",
+            "author": "John Pickstone",
+            "pub_year": 2001
+        }
+    ]
+}
