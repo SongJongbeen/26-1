@@ -83,7 +83,7 @@ if __name__ == "__main__":
         print("❌ Source ID를 찾을 수 없습니다.")
         exit()
 
-    print(f"\n📄 논문 수집 시작 (Source ID 기반, 연도 필터 적용)...")
+    print("\n📄 논문 수집 시작 (Source ID 기반, 연도 필터 적용)...")
     papers = get_papers_by_source_id(source_id, year_from=2010, year_to=2026)
 
     with_abstract = [p for p in papers if p["abstract"]]
