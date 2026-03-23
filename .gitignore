@@ -9,6 +9,12 @@ __pycache__/
 # pdf files
 # *.pdf
 
+# video files
+*.mp4
+
+# for finals
+finals/
+
 # Distribution / packaging
 .Python
 build/

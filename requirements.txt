@@ -9,3 +9,7 @@ pandas==3.0.1
 kaleido==1.2.0
 pypdf==6.8.0
 openai==2.29.0
+gradio==6.9.0
+pymupdf==1.27.2
+markdown==3.10.2
+xhtml2pdf==0.2.17
