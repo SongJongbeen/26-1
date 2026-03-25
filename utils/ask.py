@@ -46,8 +46,8 @@ async def main():
 
     for model_name, result in results:
         print(f"\n{'='*40}\n[{model_name}]\n{result}")
-        model_name = model_name.split(" ")[0]
-        with open(f"{safe_name}.md", "w", encoding="utf-8") as f:
+        safe_name = model_name.split(" ")[0]
+        with open(f"utils/{safe_name}.md", "w", encoding="utf-8") as f:
             f.write(result)
 
 
