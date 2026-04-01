@@ -13,7 +13,7 @@ client = AsyncOpenAI(
     api_key=OPENROUTER_API_KEY,
 )
 
-MODEL = "google/gemini-3.1-pro-preview"
+MODEL = "google/gemini-3-flash-preview"
 
 async def fetch_response(prompt: str) -> tuple[str, str]:
     try:
@@ -24,7 +24,7 @@ async def fetch_response(prompt: str) -> tuple[str, str]:
         )
         return response.choices[0].message.content
     except Exception as e:
-        return f"⚠️ 오류 발생: {str(e)}"
+        return f"오류 발생: {str(e)}"
 
 async def main():
     user_input = input("Q: ")
