@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# unnecessary files
+국어원 과제/
+
 # pdf files
 # *.pdf
 
