@@ -1,0 +1,9 @@
+Beck, U. (2006). Living in the world risk society: A Hobhouse Memorial Public Lecture given on Wednesday 15 February 2006 at the London School of Economics. Economy and Society, 35(3), 329–345. https://doi.org/10.1080/03085140600844902
+Slovic, P. (1987). Perception of risk. Science, 236(4799), 280–285. https://doi.org/10.1126/science.3563507
+Slovic, P., & Peters, E. (2006). Risk perception and affect. Current Directions in Psychological Science, 15(6), 322–325. https://doi.org/10.1111/j.1467-8721.2006.00461.x
+Kasperson, R. E. (2012). The social amplification of risk and low-level radiation. Bulletin of the Atomic Scientists, 68(3), 59–66. https://doi.org/10.1177/0096340212444871
+Kasperson, R. E., Webler, T., Ram, B., & Sutton, J. (2022). The social amplification of risk framework: New perspectives. Risk Analysis : An Official Publication of the Society for Risk Analysis, 42(7), 1367–1380. https://doi.org/10.1111/risa.13926
+Luhmann, N. (2008). Familiarity, Confidence, Trust: Problems and Alternatives. In R. Bachmann & A. Zaheer (Eds.), Landmark Papers on Trust. Volume 1. (pp.267–280). Elgar Reference Collection. International Library of Critical Writings on Business and Management, vol. 10. Cheltenham, U.K. and Northampton, Mass.: Elgar.
+김민경. (2020). 코로나19 가짜 뉴스(fake news) 인식 및 태도에 미치는 팩트 체크 저널리즘의 효과: 팩트 체크 뉴스 유형과 댓글 유형을 중심으로. 헬스커뮤니케이션연구, 19(2), 1–60.
+이완수 (Wansoo Lee), & 안서원 (Sowon Ahn). (2022). 코로나19(Covid-19) 뉴스에 대한 위험지각과 백신 접종의향 : 수리 정보 제시방식과 개인 특성, 그리고 정서의 영향. 한국언론학보, 66(6), 388–425. https://doi.org/10.20879/kjjcs.2022.66.6.011
+Lyu, H., Wang, J., Wu, W., Duong, V., Zhang, X., Dye, T. D., & Luo, J. (2022). Social media study of public opinions on potential COVID-19 vaccines: informing dissent, disparities, and dissemination. Intelligent medicine, 2(1), 1–12. https://doi.org/10.1016/j.imed.2021.08.001
