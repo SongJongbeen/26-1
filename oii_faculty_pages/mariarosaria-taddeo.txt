@@ -1,0 +1,169 @@
+Skip down to main content
+Research
+Study
+People
+News & Events
+About
+Engage
+OII >  
+PEOPLE >  
+Professor Mariarosaria Taddeo
+Professor of Digital Ethics and Defence Technologies
+Profile Contents
+About
+Positions at the OII
+Contact
+Research
+News & Press
+Recordings
+Teaching
+About
+
+Mariarosaria Taddeo is Professor of Digital Ethics and Defence Technologies at the Oxford Internet Institute (OII), University of Oxford, where she leads the Digital Ethics and Defence Technologies research group. Her work focuses on digital ethics, the analysis of the ethical and social implications of artificial intelligence (AI) and other emerging technologies in high risk domains, including national defence, cybersecurity, cyber conflicts. Her research has been published in leading journals including Nature, Nature Machine Intelligence, Science, and Science Robotics.
+
+Taddeo holds an MA in Philosophy from the University of Bari, where her thesis addressed the Symbol Grounding Problem, and a PhD (Doctor Europeus) in Philosophy from the University of Padua, with doctoral research focused on the epistemic and ethical implications of trust in distributed artificial systems. This early work laid the conceptual foundations for her sustained engagement with two interconnected areas: the ethical implications of AI for national defence and security, and the broader field of digital ethics, including privacy, transparency, algorithmic accountability, and the governance of digital innovation.
+
+She has published more than 150 articles in these areas (full list of publications is available here), and her work has shaped foundational debates about what digital ethics is and how it should inform policy and institutional design. Her recent books include The Ethics of Artificial Intelligence in Defence (Oxford University Press, 2024), the first systematic philosophical treatment of the ethical challenges posed by AI integration in defence contexts, and A Companion to Digital Ethics (eds. Floridi and Taddeo, Wiley, 2025).
+
+Prior to joining the OII, Taddeo held a Marie Curie Fellowship at the University of Hertfordshire, working on information warfare and its ethical implications, and was subsequently Research Fellow in Cybersecurity and Ethics at the University of Warwick. She joined the OII as a Senior Research Fellow, was appointed Associate Professor in January 2020, and was awarded the Title of Distinction of Professor of Digital Ethics and Defence Technologies by the University of Oxford in September 2023. Between 2021 and 2025 she was Dstl Ethics Fellow at the Alan Turing Institute, London.
+
+Among the most active policy-engaged scholars in her field, Professor Taddeo has served on the Ethics Advisory Panel to the UK Ministry of Defence since 2021, represented the United Kingdom on the NATO Human Factors and Medicine Exploratory Team on Operational Ethics between 2018 and 2020, and served as Oxford Fellow at the Future Council for Cybersecurity of the World Economic Forum between 2016 and 2018. Since 2016 she has been Editor-in-Chief of Minds & Machines (SpringerNature).
+
+Professor Taddeo has received numerous honours for her scholarship and public impact, including the 2010 Simon Award for Outstanding Research in Computing and Philosophy, the 2016 World Technology Award for Ethics, recognition by InspiringFifty among the most inspiring fifty Italian women working in technology (2018), and by ORBIT among the top one hundred women working on the ethics of AI globally. In 2020, she was named one of twelve Outstanding Rising Talents by the Women’s Forum for Economy and Society. In 2023, she was awarded the title of Grande Ufficiale al Merito della Repubblica Italiana by the President of the Italian Republic, Sergio Mattarella, one of Italy’s highest civic honours.
+
+Research Interests
+
+Mariarosaria Taddeo’s main research areas are Digital Ethics, Philosophy of Technology, Ethics of Cyber Conflicts and Cybersecurity.
+
+Positions at the OII
+Professor of Digital Ethics and Defence Technologies, September 2023 -
+DPhil Programme Director (ICSS), October 2021 - September 2024
+Associate Professor, January 2020 - September 2023
+Senior Research Fellow, January 2020 - September 2023
+Research Fellow, October 2017 - January 2020
+Researcher, January 2016 - October 2017
+Contact
+mariarosaria.taddeo@oii.ox.ac.uk
+'+44 (0)1865 287049
+rosariataddeo.net
+CV
+ORCID
+Research
+Publications
+
+Notable Publications
+Taddeo, M. (2017) "Cyber Conflicts and Political Power in Information Societies", Minds and Machines: journal for artificial intelligence, philosophy and cognitive sciences. 27 (2) 265-268.
+Taddeo, M. (2017) "Data Philanthropy and Individual Rights", Minds and Machines. 27 (1) 1-5.
+Taddeo, M. and Floridi, L. (2016) The Responsibilities of Online Service ProvidersLaw, Governance and Technology Series. Springer.
+Taddeo, M. (2016) "Data philanthropy and the design of the infraethics for information societies.", Philosophical transactions. Series A, Mathematical, physical, and engineering sciences. 374 (2083) 20160113.
+Taddeo, M. and Floridi, L. (2016) "The Debate on the Moral Responsibilities of Online Service Providers", Sci. Eng. Ethics. 22 (6) 1575-1603.
+Taddeo, M. (2016) "On the Risks of Relying on Analogies to Understand Cyber Conflicts", Minds and Machines. 26 (4) 317-321.
+Floridi, L. and Taddeo, M. (2016) "What is Data Ethics?", Phil. Trans. R. Soc. A. 374 (2083) 20160360.
+Taddeo, M. and Glorioso, L. (2016) Ethics and Policies for Cyber Operations A NATO Cooperative Cyber Defence Centre of Excellence Initiative. Springer.
+Floridi and Taddeo (2014) The Ethics of Information WarfareLaw, Governance and Technology Series. Springer.
+All Publications
+Featured Publications
+Pre-print
+Seven Barriers to The Ethical Governance of Artificial Intelligence in Defence
+
+By Antonia-Felicia Toffert, Katharina Klotz, Huw Roberts, Cyril Birks, and Mariarosaria Taddeo
+
+AI ethics in defence faces a gap between principles and practice. Reviewing 1,085 studies, this paper identifies seven interconnected barriers and proposes strategies to strengthen governance, build capacity, and embed ethics across the AI lifecycle.
+
+READ MORE 
+PRE-PRINT
+Seven Barriers to The Ethical Governance of Artificial Intelligence in Defence
+Antonia-Felicia Toffert, Katharina Klotz, Huw Roberts, Cyril Birks, and Mariarosaria Taddeo
+1 2 3 Next
+Projects
+The Ethics of AI in Defence
+VIEW PROJECT
+PETRAS: Internet of Things (IoT) Research Hub
+
+The PETRAS IoT Research Hub is a consortium of 9 UK universities working together to explore critical issues in privacy, ethics, trust, reliability, acceptability, and security.
+
+VIEW PROJECT
+Landscaping Strategic Cyber Deterrence
+
+This is an inter-divisional and multidisciplinary eight-month pilot study devoted to landscape the problem space and the future research on strategic cyber deterrence (SCD).
+
+VIEW PROJECT
+1 2 Next
+Recordings
+The OII Podcast Ep. 7: How can AI be deployed ethically in the defence sector?
+
+With Professor Mariarosaria Taddeo and Sir Chris Deverell
+
+Our experts discuss why AI adoption in defence is slow - covering procurement, regulation, and tech hurdles - and how conflicts like the Ukraine war shape its future. They also call for public debate on risks and ethics.
+
+LISTEN NOW
+The Ethics of Artificial Intelligence in National Defence
+
+With Professor Mariarosaria Taddeo
+
+Defence establishments worldwide now recognise artificial intelligence (AI) as a pivotal asset to secure a strategic advantage. Consequently, the race to harness AI for defence purposes is accelerating globally.
+
+WATCH NOW
+The risks of trusting AI for national defence purposes
+
+With Professor Mariarosaria Taddeo and Andreas Tsamados
+
+Dr Mariarosaria Taddeo is Senior Researcher Fellow at the Oxford Internet Institute and Deputy Director of the Digital Ethics Lab. She will discuss the use of AI and it's associated trust issues in national defence.
+
+WATCH NOW
+Blogs & Press releases
+Expert Comment: Can Europe hold the line of liberal democracies?
+
+31 March 2025
+
+The OII's Professor Mariarosaria Taddeo explores the digitalisation of defence and its intersection with liberal democratic values.
+
+READ NOW
+The Ethics of Artificial Intelligence in Defence
+
+3 February 2025
+
+In Conversation with Professor Mariarosaria Taddeo, Oxford Internet Institute discussing the ethics of AI in defence.
+
+READ NOW
+How quantum technology for defence can be developed ethically, and why it needs to be governed now
+
+22 October 2024
+
+A new comment piece by Professor Mariarosaria Taddeo, published in leading journal Nature, proposes six principles for responsible design and development of quantum technologies for defence. 
+
+READ NOW
+Highlighting our work on Generative AI
+
+27 October 2023
+
+The OII is leading the debate on Artificial Intelligence. Generative AI has been a key area of interest for faculty, researchers and students for many years. This article brings together some of this work to date and highlights forthcoming work.
+
+READ NOW
+1 2 3 … 5 Next
+Press Coverage
+Professor Taddeo interview with Italian broadcaster RAI
+
+RAI, 29 March 2026
+
+ICYMI: Watch the OII's Professor Mariarosaria Taddeo interview with Italian broadcaster RaiPlay sharing her perspective on the use of AI in military settings during the Iran/US conflict.
+
+READ NOW
+Inside Anthropic’s battle with the Pentagon
+
+Channel 4 News, 11 March 2026
+
+As tensions between the US and Iran rise, with both sides turning to AI in military operations, Prof. Mariarosaria Taddeo (OII) spoke to Channel 4 News about what responsible use of AI in warfare should look like.
+
+READ NOW
+The more you rely on artificial intelligence, the more your brain deteriorates
+
+cpbc TV, 15 February 2026
+
+The OII’s Prof Mariarsaria Taddeo shares her insights on the need for greater governance in the design of AI systems.
+
+READ NOW
+1 2 3 … 10 Next
+Doctoral Supervision
+
+Professor Taddeo welcomes proposals for DPhil research projects examining the conceptual, ethical, and governance implications of the design, development, and deployment of digital technologies—from data collection, crypto to artificial intelligence and quantum systems. Projects that explore the design, development, or application of digital technologies in high-risk domains, including national defence and security, healthcare, and finance, are particularly encouraged.

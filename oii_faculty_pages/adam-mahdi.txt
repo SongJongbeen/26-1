@@ -1,0 +1,120 @@
+Skip down to main content
+Research
+Study
+People
+News & Events
+About
+Engage
+OII >  
+PEOPLE >  
+Dr Adam Mahdi
+Associate Professor
+Profile Contents
+About
+Positions at the OII
+Contact
+Research
+News & Press
+Teaching
+About
+
+Adam Mahdi is an Associate Professor and Senior Research Fellow at the Oxford Internet Institute, and an associate member of St Antony’s College, Oxford. He was a Fellow of Wolfson College and a Stipendiary Lecturer at Lady Margaret Hall, Oxford. 
+
+He leads the Reasoning with Machines Lab, which focuses on the science of LLM evaluation, AI safety, agentic AI for science, and human–LLM interaction. His group combines mathematical rigour with empirical investigation to better understand how large language models process information, solve tasks, and interact with humans in real-world contexts.
+
+Prior to joining the Oxford Internet Institute in 2021, Adam was a Research Fellow at the Institute of Biomedical Engineering in the Department of Engineering Science, University of Oxford; a Visiting Fellow at the Isaac Newton Institute for Mathematical Sciences, University of Cambridge; and a Research Assistant Professor at North Carolina State University.
+
+Research Interests
+
+LLM and agentic evaluations, AI safety, human-AI interaction
+
+Positions at the OII
+Director of Graduate Studies, November 2022 - January 2025
+Associate Professor, April 2022 -
+Departmental Research Lecturer, October 2021 - March 2022
+DPhil Programme Director (Social Data Science), October 2021 - January 2023
+Contact
+adam.mahdi@oii.ox.ac.uk
+Google Scholar
+ORCID
+Research
+Projects
+Seeing Migration Narratives
+
+Media narratives on migration are perceived to have a significant impact on policy decisions and public attitudes toward migration. The project applies tools and methods to enable practitioners to make more effective policy decisions.
+
+
+ACTIVE
+
+
+VIEW PROJECT
+Geographies of Digital Divide
+
+A data-driven approach to understanding structural determinants of digital inequalities
+
+VIEW PROJECT
+A Multimodal COVID-19 Database for Research
+
+The Oxford COVID-19 Project aims to increase our understanding of COVID-19 and elaborate possible strategies to reduce the impact on the society through the combined power of Statistical, Mathematical Modelling and Machine Learning techniques.
+
+VIEW PROJECT
+1 2 Next
+Blogs & Press releases
+Oxford Internet Institute researchers head to Rio for ICLR 2026
+
+22 April 2026
+
+OII researchers and DPhil students will attend the 14th International Conference on Learning Representations in Rio de Janeiro from 23–27 April 2026.
+
+READ NOW
+New study warns of risks in AI chatbots giving medical advice
+
+9 February 2026
+
+Study finds AI chatbots less helpful than search engines for medical advice
+
+PRESS RELEASE
+READ NOW
+Oxford researchers to explore metrics and fairness at NeurIPS 2025
+
+25 November 2025
+
+Researchers from the Oxford Internet Institute at the University of Oxford will be at NeurIPS 2025 in San Diego from 1- 7 December, 2025, contributing to one of the world’s leading AI conferences.
+
+READ NOW
+Study identifies weaknesses in how AI systems are evaluated 
+
+4 November 2025
+
+Largest systematic review of AI benchmarks highlights need for clearer definitions and stronger scientific standards.
+
+PRESS RELEASE
+READ NOW
+1 2 3 Next
+Press Coverage
+AI chatbots are no better at medical advice than a search engine
+
+The Register, 09 February 2026
+
+A new study led by OII researchers warns of the risks in AI chatbots giving medical advice.
+
+READ NOW
+Dr Adam Mahdi explains talks chatbots and medical advice with BBC Sounds
+
+BBC Radio Oxford, 09 February 2026
+
+Dr Adam Mahdi warns that AI chatbots can be unreliable for medical advice - especially in real conversations where information is incomplete.
+
+READ NOW
+Medical misdiagnoses with AI: ‘It’s the people who break the process’
+
+NZZ, 10 February 2026
+
+When medical laypeople are asked to interpret symptoms with the help of AI, they usually get it wrong, according to a recent study led by OII researchers. 
+
+READ NOW
+1 2 3 … 5 Next
+Current Courses
+Applied Machine Learning with LLMs
+
+This course teaches practical and applied Machine Learning techniques, focusing on how to apply the mathematical foundations of machine learning to domains where we are uncertain about the right answer or best approach, with an emphasis on temporal and graph-based approaches.

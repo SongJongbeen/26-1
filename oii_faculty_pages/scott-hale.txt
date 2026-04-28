@@ -1,0 +1,495 @@
+Skip down to main content
+Research
+Study
+People
+News & Events
+About
+Engage
+OII >  
+PEOPLE >  
+Dr Scott A. Hale
+Director, Associate Professor, Senior Research Fellow
+(he/him)
+Profile Contents
+About
+Positions at the OII
+Contact
+Research
+News & Press
+Recordings
+Teaching
+About
+
+Dr Scott A. Hale is Director, Associate Professor, and Senior Research Fellow at the Oxford Internet Institute, where he leads the Equitable Access to Quality Information Lab (eaqilab). His research develops and applies computational and social science methods to understand how digital technologies, such as social media, large language models, and algorithmic systems shape society, focusing on how people discover, evaluate, and use information online to make important life decisions.
+
+Scott is also Director of Research at Meedan, a nonprofit technology organisation developing tools to support digital literacy and civic engagement. He has worked internationally, including in Japan, and is committed to mentoring early-career researchers. In 2022, he received a Teaching Excellence Award from the University of Oxford’s Social Sciences Division, recognizing his outstanding contributions to teaching and supervision.
+
+Research Interests
+
+LLM alignment, bias, bilingualism, applications of machine learning, natural language processing (NLP)
+
+Doctoral Supervision
+
+Due to my role as Director and number of current supervisees, it is likely I will only be allocated a very small number of students, if any, in the upcoming admissions cycle. Applicants can nominate multiple potential supervisors, and I encourage those considering me as a potential supervisor to nominate at least one other faculty member. Given the volume of email enquiries, I am unfortunately unable to respond to every email about doctoral supervision.
+
+My research continues to examine equitable access to quality information, with an increasing focus on holistic evaluations of GenAI systems (e.g., considering models alongside agentic tools and other factors). I’m also particularly interested in the effects on downstream tasks.
+
+Positions at the OII
+Director, January 2026 -
+Associate Professor, December 2020 -
+Social Data Science MSc Programme Co-Director, January 2019 - December 2020
+Senior Research Fellow, September 2018 -
+Social Data Science Programme Director, February 2017 - December 2018
+Senior Data Scientist and Research Fellow, June 2016 - August 2018
+Data Scientist, January 2015 - May 2016
+DPhil Student, October 2010 - January 2015
+Research Assistant, May 2010 - December 2014
+MSc Student, October 2009 - August 2010
+Contact
+scott.hale@oii.ox.ac.uk
+he/him
+@computermacgyve
+computermacgyver.bsky.social
+LinkedIn
+Google Scholar
+ORCID
+Research
+Publications
+
+Notable Publications
+Magomere, J., La Malfa, E., Tonneau, M., Kazemi, A., and Hale, S.A. (2025) When Claims Evolve: Evaluating and Enhancing the Robustness of Embedding Models Against Misinformation Edits. In Findings of the Association for Computational Linguistics: ACL 2025.
+Tonneau, M., Liu, D., Malhotra, N., Hale, S.A., Fraiberger, S., Orozco-Olvera, V., and Röttger, P. (2025) HateDay: Insights from a Global Hate Speech Dataset Representative of a Day on Twitter. In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025). Outstanding paper award
+Kirk, H.R., Gabriel, I., Summerfield, C., Vidgen, B., and Hale, S.A. (2025) Why human-AI Relationships need Socioaffective Alignment. Nature Humanities and Social Sciences Communications.
+Hackenburg, K., Tappin, B.M., Röttger, P., Hale, S.A., Bright, J., and Margetts, H. (2025) Scaling language model size yields diminishing returns for single-message political persuasion. In Proceedings of the National Academy of Sciences of the United States of America (PNAS).
+Hale, S.A., Belisario, A., Mostafa, A.N., Camargo, C. (2024) Analyzing Misinformation Claims During the 2022 Brazilian General Election on WhatsApp, Twitter, and Kwai. International Journal of Public Opinion Research, 36(3)
+Kirk, H.R., Whitefield, A., Röttger, P., Bean, A., Margatina, K., Ciro, J., Mosquera, R., Bartolo, M., Williams, A., He, H., Vidgen, B., and Hale, S.A. (2024) The PRISM Alignment Project: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models. In Advances in Neural Information Processing Systems (NeurIPS 2024). Best paper award for the dataset and benchmarking track.
+Bean, A.M., Hellsten, S., Mayne, H., Magomere, J., Chi, E.A., Chi, R., Hale, S.A., and Kirk, H.R. (2024) LINGOLY: A Benchmark of Olympiad-Level Linguistic Reasoning Puzzles in Low-Resource and Extinct Languages. In Advances in Neural Information Processing Systems (NeurIPS 2024).
+Kazemi, A., Garimella, K., Gaffney, D., and Hale, S.A. (2021) Claim matching beyond English to scale global fact-checking. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics, ACL 2021. Association for Computational Linguistics.
+Wang, Z., Hale, S.A., Ifeoluwa Adelani, D., Grabowicz, P., Hartman, T., Flöck, F., and Jurgens, D. (2019) Demographic Inference and Representative Population Estimates from Multilingual Social Media Data. In Proceedings of the Web Conference 2019, WWW 2019, ACM.
+Open-access |Blog | Python package | Web demo
+Margetts, H., John, P., Hale, S., and Yasseri, T. (2015) Political Turbulence: How Social Media Shape Collective Action. Princeton University Press.
+All Publications
+Featured Publication
+Book
+Political Turbulence: How Social Media Shape Collective Action
+
+By Helen Margetts, Peter John, Scott Hale, and Taha Yasseri
+
+This book demonstrates how data science and experimentation with social data can provide a methodological toolkit for understanding, shaping, and perhaps even predicting the outcomes of a new "democratic turbulence".
+
+READ MORE
+Projects
+The Digital Good Network
+
+The Digital Good Network (DGN) delivers an interdisciplinary, social science-led research programme centred on the urgent, neglected question of what the digital good should look like and how it can be achieved.
+
+
+ACTIVE
+
+
+VIEW PROJECT
+Seeing Migration Narratives
+
+Media narratives on migration are perceived to have a significant impact on policy decisions and public attitudes toward migration. The project applies tools and methods to enable practitioners to make more effective policy decisions.
+
+
+ACTIVE
+
+
+VIEW PROJECT
+Research Programme on AI, Government and Policy
+
+This programme supports research on AI, Government and Policy.
+
+
+ACTIVE
+
+
+VIEW PROJECT
+1 2 3 … 6 Next
+Integrity Statement
+I currently hold an external funded position working as Director of Research at Meedan, a global technology not-for-profit. In the past five years my work has been financially supported by UK Research and Innovation, the US National Science Foundation, the Omidyar Network, the Alan Turing Institute, the UK Defence Science and Technology Laboratory, the Lloyd’s Register Foundation, the Volkswagen Foundation, DSO National Laboratories, Meta, Google, and Twitter. My research has included collaborative grants with Oxfordshire County Council, BT, Meta, Meedan, and a youth-support charity.  I have served in an advisory capacity to the Daily Edit, Meedan, the UK Government, and Town Square News in the past five years.
+Recordings
+Countering misinformation in partnership with diaspora communities by Dr Scott Hale
+
+With Dr Scott A. Hale
+
+Countering misinformation in partnership with diaspora communities by Dr Scott Hale
+
+WATCH NOW
+Destroy the Internet Advertising Economy With This One Weird Trick
+
+With Tim Hwang and Dr Scott A. Hale
+
+The OII welcomes Visiting Policy Fellow Tim Hwang, to discuss his new book 'Subprime Attention Crisis' with Dr Scott A. Hale. Tim is a researcher and lawyer, working at the intersection of technology, public policy and economics.
+
+WATCH NOW
+Global Fact 7: Fakes, misinformation and fact-checking
+
+With Dr Scott A. Hale
+
+In this session, part of International fact-checking network Global Fact 7 Virtual, panelists will present ongoing research on misinformation and fact-checking from around the world.
+
+WATCH NOW
+Monitoring health misinformation: An early-detection methodology for fact-checkers
+
+With Dr Scott A. Hale
+
+Monitoring the health conversation online. Detecting notable shifts through word embeddings and semantic change. Presentation by Jenna Sherman, Nat Gyenes, Ashkan Kazemi, and Scott Hale.
+
+WATCH NOW
+1 2 3 Next
+News & Press
+Blogs & Press releases
+Oxford researchers to explore metrics and fairness at NeurIPS 2025
+
+25 November 2025
+
+Researchers from the Oxford Internet Institute at the University of Oxford will be at NeurIPS 2025 in San Diego from 1- 7 December, 2025, contributing to one of the world’s leading AI conferences.
+
+READ NOW
+New leadership at the Oxford Internet Institute
+
+27 October 2025
+
+The OII is pleased to announce Dr Scott A. Hale appointed as its next Director, and Dr Kathryn Eccles as Deputy Director.
+
+READ NOW
+OII researchers will address NLP model inequalities at ACL 2025
+
+28 July 2025
+
+Researchers including DPhil students from the Oxford Internet Institute will present new research and share recent findings at the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) in Vienna.
+
+READ NOW
+Large Language Models (LLMs): Getting personal
+
+23 April 2024
+
+Personalisation has the potential to democratise who decides how LLMs behave, but comes with risks for individuals and society, say Oxford researchers.
+
+READ NOW
+1 2 3 … 20 Next
+Press Coverage
+Dr Scott Hale in conversation with BBC Sounds
+
+BBC Radio Oxford, 13 January 2026
+
+Who is responsible for regulating technology and addressing the environmental impact of AI—and why will 'healthy scepticism' be essential as AI becomes increasingly embedded in everyday life? OII Director Dr Scott Hale shares his perspective.
+
+READ NOW
+Social platforms’ ‘language blind spots’ in content moderation bring brand safety concerns
+
+The Media Leader, 29 August 2025
+
+Millions of social media users in the EU are posting in languages without any human moderation oversight, according to a new study of recently mandated transparency data under the EU’s Digital Services Act (DSA), conducted by OII researchers.
+
+READ NOW
+The Social revolution
+
+Science, 26 February 2016
+
+Review of ‘Political Turbulence’ by Helen Margetts, Peter John, Taha Yasseri and Scott Hale.
+
+READ NOW
+1 2 Next
+Teaching
+Current Students
+Chris Blex
+
+DPhil Student
+
+Chris is a DPhil student at the OII and a doctoral student at the Alan Turing Institute.
+
+VIEW PROFILE
+Hannah Rose Kirk
+
+DPhil Student
+
+Hannah is a 4th year DPhil student in Social Data Science at the OII and a Research Scientist at the UK AI Security Institute. Her research explores how to align AI systems with the values and preferences of diverse human populations.
+
+VIEW PROFILE
+Amy Munz
+
+DPhil Student
+
+Amy is a DPhil candidate. She researches empathic communication with digital audiences.
+
+VIEW PROFILE
+Tarah Wheeler
+
+DPhil Student
+
+Tarah Wheeler is an information security executive, AI researcher specializing in natural language processing, social data scientist in international conflict, author, and poker player.
+
+VIEW PROFILE
+Calvin Yixiang Cheng
+
+DPhil Student
+
+Calvin is a DPhil candidate in Social Data Science at the Oxford Internet Institute. His research examines how digital technologies shape the diffusion of misinformation, the formation of ideology, and the dynamics of public opinion.
+
+VIEW PROFILE
+Yixin Chen
+
+DPhil Student
+
+Yixin is a DPhil student in Social Data Science. Her research focuses on examining online communication on social media sites, and designing social systems to better support it.
+
+VIEW PROFILE
+Manuel Tonneau
+
+DPhil Student
+
+Manuel is a second-year DPhil student in Social Data Science and a Shirley Scholar at the OII. His research is focused on the cross-geographic study of harmful online content moderation.
+
+VIEW PROFILE
+Jessica Rodrigues Da Silva
+
+DPhil Student
+
+Jessica is a DPhil student in Social Data Science at the OII. Her research focuses on modelling attention as a temporally structured phenomenon through Natural Language Processing and representation learning.
+
+VIEW PROFILE
+Jude Khouja
+
+DPhil Student
+
+Jude’s research focuses on building computational and machine learning models that can acquire and demonstrate social cognition skills by borrowing from principles in Psychology, Social Sciences and Cognition.
+
+VIEW PROFILE
+Jabez Magomere
+
+DPhil Student
+
+Jabez is a DPhil student in Social Data Science at the OII. His research focuses on misinformation and developing automated fact-checking methods for misinformation in multiple modalities and across multilingual contexts.
+
+VIEW PROFILE
+Past Students
+Benjamin Gittelson
+
+Former MSc Student
+
+MSc Thesis: Linguistic and social niche size impacts word fate across word classes on Reddit
+
+VIEW PROFILE
+Melanie Bumpas
+
+Former MSc Student
+
+Melanie Bumpas is interested in the formation and manipulation of public opinion online. She previously worked in Shanghai for Kantar Media CIC, a social media analysis and consulting firm, and holds a BA in International Studies and Chinese.
+
+VIEW PROFILE
+Sharon Chang
+
+Former MSc Student
+
+Sharon was an MSc student with research interests in the development of smart cities, the Internet of Things (IoT) and the ideas of improving disabled accessibility through data-driven, human-centred approaches.
+
+VIEW PROFILE
+Lindsay Ferris
+
+Former MSc Student
+
+Prior to the OII, Lindsay worked with several international and US-based organizations working to solve social problems through the use of technology and data. She has a B.A. in Philosophy from the University of Virginia.
+
+VIEW PROFILE
+Julian Gilson
+
+Former MSc Student
+
+Julian is interested in computational social science and forecasting methods. In his research he is developing modelling techniques that produce more accurate and granular predictions of event outcomes.
+
+VIEW PROFILE
+Katsushige Kitazawa
+
+Former MSc Student
+
+I worked for the Japanese government and hold a MSc in Meteorology and BS in Physics. My interest is the use of big data and artificial intelligence for Disaster Risk Reduction and Weather business.
+
+VIEW PROFILE
+Zachary Levine
+
+Former MSc Student
+
+Zachary Levine was an OII MSc student.
+
+VIEW PROFILE
+Zohaib Ahmed
+
+Former MSc Student
+
+Zo was an MSc. Social Data Science student with an interest in AI-driven political influence and political life on social media platforms. He previously worked as a Data Specialist at Twitter, and in the AI Policy team at Google.
+
+VIEW PROFILE
+Austin Botelho
+
+Former MSc Student
+
+Austin came to the OII with a BA in International Affairs and Economics from Lafayette College. He is passionate about promoting social cohesion and inclusion with technology as demonstrated by his research on automated hate speech detection.
+
+VIEW PROFILE
+Dragos Gorduza
+
+Former MSc Student
+
+Dragos was born in Romania and moved to France aged 5. He studied political sciences and economics at SciencesPo and data science at the LSE. He enjoys reading, chess and thought-provoking debates around a drink.
+
+VIEW PROFILE
+Olivia Ong
+
+Former MSc Student
+
+Olivia is interested in how data can improve public policy and improve social inequalities. She holds a BA in Experimental Psychology from the University of Oxford.
+
+VIEW PROFILE
+Cailean Osborne
+
+Former MSc Student
+
+Cailean is a DPhil Candidate in Social Data Science, whose research concerns the political economy of open source artificial intelligence.
+
+VIEW PROFILE
+Hope Schroeder
+
+Former MSc Student
+
+Hope Schroeder was an MSc student interested in language data, social networks, XR, and more. She holds a BS in Symbolic Systems with Honors from Stanford University.
+
+VIEW PROFILE
+Katharina Anders
+
+Former DPhil Student
+
+Katharina holds a BSc in Business Statistics from Freie University Berlin and Harvard University as well as a MSc in Statistics from Oxford University.
+
+VIEW PROFILE
+Adrienn Lawson
+
+Former MSc Student
+
+Adri holds a BSc in Social Sciences with Quantitative Methods from UCL. Adri is interested to explore algorithmic bias/fairness and would like to answer similar social science questions with the use of advanced computational methods.
+
+VIEW PROFILE
+Jose Medriano
+
+Former MSc Student
+
+Jose graduated from Ateneo de Manila University with a BA in Political and Social Sciences. He was a university lecturer prior to joining the OII, teaching NLP in the context of social science research.
+
+VIEW PROFILE
+Yixin Chen
+
+DPhil Student
+
+Yixin is a DPhil student in Social Data Science. Her research focuses on examining online communication on social media sites, and designing social systems to better support it.
+
+VIEW PROFILE
+Elgar Teo
+
+Former MSc Student
+
+Elgar is interested in understanding society by capitalising on the digitisation of human behaviours. He has studied online public opinion and the use of technology in social movements. He is a journalism graduate from the University of Hong Kong.
+
+VIEW PROFILE
+Junyao Zhang
+
+Former MSc Student
+
+Junyao holds two bachelor degrees from the Hong Kong University of Science and Technology and Waseda University in Japan. Her undergraduate study is funded by Bai Xian Asian Institute. She joined the OII as a Clarendon scholar.
+
+VIEW PROFILE
+Owen Henkel
+
+DPhil student, Department of Education, University of Oxford
+
+Sherif ElRakabawy
+
+Jonathan Rystrøm
+
+DPhil Student
+
+Jonathan is a DPhil student in Social Data Science at the OII. Jonathan's research focus is socio-technical evaluations of multimodal human-AI interactions.
+
+VIEW PROFILE
+Desiree Cho
+
+Former MSc Student
+
+Desiree is a computational AI ethics researcher. Her research focuses on evaluating the alignment of social media recommender systems with human values.
+
+VIEW PROFILE
+Adriano Belisario
+
+Former MSc Student
+
+Adriano uses data science in human rights investigations. He is a journalist, educator and researcher with a master's degree in Communication from the Federal University of Rio de Janeiro.
+
+VIEW PROFILE
+Gareth Pang
+
+Former MSc Student
+
+Gareth is focused on using data science to support policymaking and ensure society’s resilience against disinformation. He holds a BSc (Hons) in Economics, Politics, and International Studies.
+
+VIEW PROFILE
+Elad Vromen
+
+Former MSc Student
+
+Elad has both industry and academic experience in NLP data analysis, LLM research, and statistical optimization. He holds a BSc in Philosophy and Data Science. His interests focus on AI interpretability in social domains.
+
+VIEW PROFILE
+Dorian Quelle
+
+Former Research Associate
+
+Dorian Quelle is a PhD Candidate in Quantitative Network Science (UZH). He works as a Data Scientist, focusing on countering foreign state propaganda.
+
+VIEW PROFILE
+Adriano Belisario
+
+Former MSc Student
+
+Adriano uses data science in human rights investigations. He is a journalist, educator and researcher with a master's degree in Communication from the Federal University of Rio de Janeiro.
+
+VIEW PROFILE
+Michelle Abigan
+
+Former MSc Student
+
+Michelle is an MSc student in Social Data Science. She holds a BSc in Economics and Business Analytics. Prior to her postgraduate studies, she gained experiences in online marketplaces and consulting.
+
+VIEW PROFILE
+Ajai Sreevatsan
+
+Former MSc Student
+
+Ajai is a former investigative journalist and long reads editor. He works on how political mis-/disinformation spreads via messaging apps like WhatsApp.
+
+VIEW PROFILE
+Current Courses
+Social Data Science in Practice
+
+The course will teach computational complexity and how to profile and increase the computational efficiency of Python code. It will also cover parallel and distributed computing approaches, and discuss data storage and retrieval techniques.
+
+Stephen A. Schwarzman Centre for the Humanities
+University of Oxford
+Radcliffe Observatory Quarter
+Woodstock Road
+Oxford
+OX2 6GG +44 (0)1865 287210
+
+General: enquiries@oii.ox.ac.uk
+Press: press@oii.ox.ac.uk
+
+STAFF INTRANET
+NEWSLETTER
+FOLLOW US:
+INFORMATION FOR:
+Prospective students
+Alumni
+Job seekers
+Media
+Policy makers
+© Oxford Internet Institute 2026 | Terms of Use | Privacy Policy | Cookie Settings | Copyright Policy | Accessibility | Email Webmaster
