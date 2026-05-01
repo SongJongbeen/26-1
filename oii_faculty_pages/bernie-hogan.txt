@@ -1,0 +1,171 @@
+Skip down to main content
+Research
+Study
+People
+News & Events
+About
+Engage
+OII >  
+PEOPLE >  
+Dr Bernie Hogan
+Director of Graduate Studies, Associate Professor, Senior Research Fellow
+Profile Contents
+About
+Positions at the OII
+Contact
+Research
+News & Press
+Recordings
+Teaching
+About
+
+Bernie Hogan (PhD Toronto, 2009) is a Associate Professor, Senior Research Fellow at the OII and Research Associate at the Department of Sociology. With training in sociology and computer science, Hogan focuses on how social networks and social media can be designed to empower people to build stronger relationships and stronger communities.
+
+Hogan’s theoretical work was among the first to identify the role of the social media platform as curator and to distinguish certain social media as the ‘real name web’. His practical work has shown how network visualizations can reveal new information to individuals from their social media data. He believes that the way networked information comes us in feeds is akin to being given a route through social space. This might get us where we want to go, but to truly empower people we need to see the map, not only the route along the way.
+
+Hogan’s innovations in social network analysis began with his work at NetLab at the University of Toronto. With Barry Wellman and fellow graduate students, he introduced participant-aided sociograms as a means to capture social networks with pen and paper. He subsequently applied this to social media, and especially Facebook with the introduction of NameGenWeb, a Facebook network visualizer (with Joshua Melville). The second generation of this visualizer, CollegeConnect, was empirically shown to help high school students reveal social resources in their networks. Most recently, with Melville and collaborators at the Institute for Sexual and Gender Minority Health and Wellbeing at Northwestern University, he has been working on Network Canvas. This software makes the collection of self-reported network data accessible to non-technical researchers.
+
+Hogan has published in a wide variety of venues, from peer-reviewed papers in sociology journals (such as Social Networks, City and Community, Bulletin of Science Technology and Society, and Field Methods), in computer science proceedings (such as CHI, ICWSM, and CSCW) and related disciplines, particularly geography (with papers in Environment and Planning B, the Annals of the Association of American Geographers and Tijdschrift voor Economische en Sociale Geografie) and communication (with papers in New Media & Society, Social Media + Society, International Journal of Communication, and Information, Communication and Society). This is in addition to many chapters in books, grey literature reports and public opinion pieces. He is on the editorial boards of Social Media + Society, Journal of Computer-Mediated Communication and Social Networks.
+
+Public dissemination of research is a core part of Hogan’s work. With colleagues, he has worked with UK therapy organizations, Tavistock and Relate to produce guidelines on internet infidelity for patients and practitioners. He has also published related work in the Journal of Marital and Family Therapy. He has been featured on BBC 1 morning and Newsnight, ITV, Channel 4, Channel 5, Vice and NBC in America. He is routinely featured on BBC 4 radio including as a mentor in Radio 4’s So You Want to Be a Scientist. He has given keynotes at conferences in France, UK, Switzerland and Japan.
+
+As an academic Hogan is keen on service to the University and the wider academic community. He has run small academic seminars on Internet and Relationships at the OII as well as hosting the International Conference on Web and Social Media at Oxford in 2015. He was previously program chair for ICWSM in 2013 and 2014 and is currently a member of the ICWSM steering committee.
+
+Many of Hogan’s papers can be found at his ssrn page and registered on his Google scholar. His ORCID is here. He is currently accepting graduate students on his active interests of names and naming practices, egocentric social networks, network visualizations, politics of social media and social identity, especially identity issues relating to gender and sexual minorities.
+
+Positions at the OII
+Director of Graduate Studies, January 2025 -
+Associate Professor, June 2023 -
+Senior Research Fellow, May 2017 -
+Research Fellow, October 2008 - May 2017
+Contact
+bernie.hogan@oii.ox.ac.uk
++44 (0)1865 287198
+@blurky
+blogs.oii.ox.ac.uk/hogan/
+Papers
+Research
+Publications
+
+All Publications
+Projects
+Research Programme on AI & Work
+
+This programme supports research in the sphere of AI & Work.
+
+
+ACTIVE
+
+
+VIEW PROJECT
+Governing the likeness: How AI art communities of practice manage the use of real faces
+
+With the introduction of open source AI tools for image generation, communities of practice exist that can generate image models trained on real people. This project explores how such communities develop norms about the appropriate use of a likeness.
+
+VIEW PROJECT
+A Multimodal COVID-19 Database for Research
+
+The Oxford COVID-19 Project aims to increase our understanding of COVID-19 and elaborate possible strategies to reduce the impact on the society through the combined power of Statistical, Mathematical Modelling and Machine Learning techniques.
+
+VIEW PROJECT
+1 2 3 Next
+Integrity Statement
+
+I conduct my research in line with the University's academic integrity code of practice.
+
+Recordings
+Defining social data science as the science of social measurement
+
+With Dr Bernie Hogan
+
+This talk introduces Hogan's book From Social Science to Data Science.
+
+WATCH NOW
+Cultures of Wikipedia
+
+With Dr Bernie Hogan
+
+To celebrate Wikipedia’s 15th Birthday we held a public editathon on “The Social Internet” on 15 January 2016. Part of the day included presentations about the research on Wikipedia undertaken at the Oxford Internet Institute, University of Oxford.
+
+WATCH NOW
+The Good, the Bad, and the Ugly Data: Opportunities and Challenges for Data Science and Contact Tracing on SARS-CoV-2
+
+With Dr Bernie Hogan and Dr Adam Mahdi
+
+Dr Bernie Hogan, Research Fellow at the Oxford Internet Institute, will examine how data collated during the COVID-19 pandemic is being utilised.
+
+WATCH NOW
+Dr Bernie Hogan explains why we’re supporting Get Online Week 2019
+
+With Dr Bernie Hogan
+
+We're delighted to be supporting Get Online Week 2019, talking to academic Dr Bernie Hogan about why more people should get connected.
+
+WATCH NOW
+1 2 3 Next
+Blogs & Press releases
+Faces of the Future: How Generative AI is Redefining Likeness and Identity in the Age of Artificial Intelligence
+
+6 February 2024
+
+With a proliferation of AI-generated images sweeping across the internet, OII experts explore the benefits and risks of AI technologies to society.
+
+READ NOW
+Highlighting our work on Generative AI
+
+27 October 2023
+
+The OII is leading the debate on Artificial Intelligence. Generative AI has been a key area of interest for faculty, researchers and students for many years. This article brings together some of this work to date and highlights forthcoming work.
+
+READ NOW
+In memory: Dr Amaru Villanueva Rance (La Paz, 1985 – London, 2022)
+
+11 September 2023
+
+The Oxford Internet Institute is deeply saddened to learn of the passing of Dr Amaru Villanueva Rance in 2022. Amaru was an alumnus of the OII’s MSc Social Science of the Internet programme.
+
+READ NOW
+New software tool to help researchers with complex social network data collection projects could be used to fight Covid-19
+
+16 December 2020
+
+Researchers at Northwestern University and the Oxford Internet Institute, University of Oxford, are proud to announce the stable release of the Network Canvas suite of tools for collecting social network data.
+
+PRESS RELEASE
+READ NOW
+1 2 3 … 6 Next
+Press Coverage
+It’s gross, it’s unprofessional’: Some LinkedIn users are being put off the platform by unsolicited flirtatious DMs
+
+CNBC, 10 November 2024
+
+Some LinkedIn users have reported receiving unsolicited flirtatious messages via the platform, with expert Bernie Hogan at the Oxford Internet Institute saying the employment-focused social website is increasingly being used for dating purposes.
+
+READ NOW
+Strava and Letterboxd Surge as Users Crave Social-Media Refuge
+
+Bloomberg, 31 August 2024
+
+Strava's growing appeal reflects a surge in affinity-based platforms — like Letterboxd for movie buffs and GoodReads for book lovers — that provide a refuge from social-media giants, while offering other businesses a new way to target consumers.
+
+READ NOW
+The EU Thinks Meta’s Ad-Free Service Is Illegal
+
+The Daily Upside, 02 July 2024
+
+The European Commission said it believes Meta violated the new Digital Markets Act by implementing a monthly subscription to escape ads.
+
+READ NOW
+1 2 3 4 Next
+Current Courses
+Thesis Seminar
+
+This is a capstone course for students in their final term. It is an opportunity for the whole cohort to reconvene and present their thesis work in progress to the group. Additionally, seminars may include advice on best practices in research and life after the MSc.
+
+Fundamentals of Social Data Science in Python
+
+This course is a four week intensive primer to get people up to speed on programming in the Python programming language for use with data science. It covers basics of claim-making, analysis, and Python for data science.
+
+Computational Methods for the Social Sciences
+
+This course teaches the essentials of programming in Python, using the language to access data from a diverse variety of sources on the social web, and transforming this material into datasets which are amenable to traditional social science analysis.

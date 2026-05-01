@@ -1,0 +1,121 @@
+Skip down to main content
+Research
+Study
+People
+News & Events
+About
+Engage
+OII >  
+PEOPLE >  
+Dr Chris Russell
+Dieter Schwarz Associate Professor, AI, Government & Policy.
+Profile Contents
+About
+Positions at the OII
+Contact
+Research
+News & Press
+Teaching
+About
+
+Chris Russell is the Dieter Schwarz Associate Professor, AI, Government and Policy.
+
+Dr Russell’s work lies at the intersection of computer vision and responsible AI. His career to date illustrates a commitment to exploring the use of AI for good, alongside responsible governance of algorithms.
+
+His recent work on mapping for autonomous driving won the best paper award at the International Conference on Robotics and Automation (ICRA). He has a wide-ranging set of research interests, having worked with the British Antarctic Foundation to forecast arctic melt; as well as creating one of the first causal approaches to algorithmic fairness. His work on explainability with Sandra Wachter and Brent Mittelstadt of the OII is cited in the guidelines to the GDPR and forms part of the TensorFlow “What-if tool”.
+
+Dr Russell has been a research affiliate of the OII since 2019 and is a founding member of the Governance of Emerging Technology programme, a research group that spans multiple disciplines and institutions looking at the socio-technical issues arising from new technology and proposing legal, ethical and technical remedies. Their research focuses on the governance and ethical design of algorithms, with an emphasis on accountability, transparency, and explainable AI.
+
+Prior to joining the OII, he worked at AWS, and has been a Group Leader in Safe and Ethical AI at the Alan Turing Institute, and a Reader in Computer Vision and Machine Learning at the University of Surrey.
+
+Research Interests
+
+Algorithmic Fairness, Explainable AI, machine learning, computer vision.
+
+Positions at the OII
+Dieter Schwarz Associate Professor, AI, Government & Policy., September 2023 -
+Research Associate, December 2019 - August 2024
+Contact
+chris.russell@oii.ox.ac.uk
+Research
+Projects
+Research Programme on AI, Government and Policy
+
+This programme supports research on AI, Government and Policy.
+
+
+ACTIVE
+
+
+VIEW PROJECT
+Advancing medical machine learning to predict inflammatory arthritis
+
+This project will develop useful and responsible machine learning methods to achieve real-world early detection and personalised disease outcome prediction of inflammatory arthritis.
+
+VIEW PROJECT
+Programme on the Governance of Emerging Technologies
+
+This OII research programme investigates legal, ethical, and social aspects of AI, machine learning, and other emerging information technologies.
+
+VIEW PROJECT
+1 2 Next
+News & Press
+Blogs & Press releases
+Oxford Internet Institute researchers head to Rio for ICLR 2026
+
+22 April 2026
+
+OII researchers and DPhil students will attend the 14th International Conference on Learning Representations in Rio de Janeiro from 23–27 April 2026.
+
+READ NOW
+Oxford researchers to explore metrics and fairness at NeurIPS 2025
+
+25 November 2025
+
+Researchers from the Oxford Internet Institute at the University of Oxford will be at NeurIPS 2025 in San Diego from 1- 7 December, 2025, contributing to one of the world’s leading AI conferences.
+
+READ NOW
+Dramatic rise in publicly downloadable deepfake image generators
+
+7 May 2025
+
+New Oxford study uncovers explosion of accessible deepfake AI image generation models intended for the creation of non-consensual, sexualised images of women.
+
+PRESS RELEASE
+READ NOW
+Large Language Models pose a risk to society and need tighter regulation, say Oxford researchers
+
+7 August 2024
+
+Leading experts in regulation and ethics at the Oxford Internet Institute, part of the University of Oxford, have identified a new type of harm created by LLMs which they believe poses long-term risks to democratic societies and needs to be addressed
+
+PRESS RELEASE
+READ NOW
+1 2 3 Next
+Press Coverage
+The Disturbing Reality of AI-Generated Abuse
+
+Somewhere on Earth: The Global Tech Podcast, 20 May 2025
+
+A new study reveals nearly 35,000 publicly downloadable AI models capable of generating deepfake pornography—often targeting women and celebrities.
+
+READ NOW
+University calls for tighter measures to control the rise of AI deep fakes
+
+Cherwell, 14 May 2025
+
+A new study from the Oxford Internet Institute (OII) has found a sharp rise in the number of AI tools used to generate deep fake images of identifiable people, primarily targeting women.
+
+READ NOW
+Oxford University uncovers ‘dramatic rise’ in deepfakes
+
+Oxford Mail, 07 May 2025
+
+The lead author of a new Oxford University says there is an 'urgent need' for more controls to tackle the rise of deepfakes.
+
+READ NOW
+1 2 3 4 Next
+Current Courses
+Machine Learning
+
+This course covers the fundamentals of both supervised and unsupervised learning.

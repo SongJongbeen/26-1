@@ -1,0 +1,90 @@
+Skip down to main content
+Research
+Study
+People
+News & Events
+About
+Engage
+OII >  
+PEOPLE >  
+Dr Paul Röttger
+Departmental Lecturer
+(He/Him)
+Profile Contents
+About
+Positions at the OII
+Contact
+News & Press
+Teaching
+Supervisors at the OII
+About
+
+Paul is a Departmental Lecturer at the Oxford Internet Institute (OII) and an Associate Member of Nuffield College at the University of Oxford. His work is located at the intersection of natural language processing (NLP) and the social sciences.
+
+In his current research, Paul focuses on evaluating and improving the safety of large language models (LLMs) as well as studying their societal impacts. For his recent work in this area, he won an Outstanding Paper Award at ACL, the top NLP conference, and a Best Paper Award at NeurIPS, the top AI conference.
+
+Before joining the OII as Lecturer, Paul was a Postdoctoral Researcher at Bocconi University, working with Prof Dirk Hovy and the MilaNLP lab. Paul also holds a DPhil from the OII, where he was supervised by Prof Helen Margetts and Prof Janet Pierrehumbert. During his DPhil, Paul co-founded a start-up building AI tools for content moderation, which was acquired by another large online safety company in 2023.
+
+Research Interests
+
+Large language models, societal impacts of AI, AI alignment, AI safety
+
+Positions at the OII
+Departmental Lecturer, December 2025 -
+Teaching Assistant (NLP), January 2022 - March 2022
+DPhil Student, October 2019 - July 2023
+Teaching Assistant (Statistics), October 2019 - March 2020
+Contact
+paul.rottger@oii.ox.ac.uk
+He/Him
+@paul_rottger
+LinkedIn
+paulrottger.com/
+Google Scholar
+News & Press
+Blogs & Press releases
+Oxford Internet Institute researchers head to Rio for ICLR 2026
+
+22 April 2026
+
+OII researchers and DPhil students will attend the 14th International Conference on Learning Representations in Rio de Janeiro from 23–27 April 2026.
+
+READ NOW
+Highlighting our work on Generative AI
+
+27 October 2023
+
+The OII is leading the debate on Artificial Intelligence. Generative AI has been a key area of interest for faculty, researchers and students for many years. This article brings together some of this work to date and highlights forthcoming work.
+
+READ NOW
+Tackling online hate speech one emoji at a time
+
+13 August 2021
+
+AI content moderation systems have the potential to relieve the burden of tackling online hate. But the use of emojis to express hate can outpace what AI systems can understand.
+
+READ NOW
+Press Coverage
+When AI chatbots become malicious
+
+Tagesschau, 16 January 2026
+
+The OII’s Dr Paul Röttger comments on the risks of AI models and how they can malfunction.
+
+READ NOW
+A common practice in the AI ​​industry can lead language models to make statements glorifying violence. Researchers explain how this behaviour arises.
+
+Frankfurter Allgemeine Zeitung (FAZ), 24 January 2026
+
+The OII’s Dr Paul Röttger comments on how LLMs can glorify violence.
+
+READ NOW
+Google Bard: AI chatbot to be released for public testing
+
+The Times, 21 March 2023
+
+Google is releasing Bard, its artificial intelligence chatbot, to the public as it faces up to the challenge presented by ChatGPT to its dominance in web searches.
+
+READ NOW
+1 2 3 Next
+Teaching

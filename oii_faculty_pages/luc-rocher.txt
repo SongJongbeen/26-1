@@ -1,0 +1,161 @@
+Skip down to main content
+Research
+Study
+People
+News & Events
+About
+Engage
+OII >  
+PEOPLE >  
+Dr Luc Rocher
+Associate Professor
+(they/them)
+Profile Contents
+About
+Positions at the OII
+Contact
+Research
+News & Press
+Recordings
+Teaching
+About
+
+Professor Luc Rocher is an associate professor and UKRI Future Leaders Fellow at the Oxford Internet Institute. Luc leads the Synthetic Society Lab, a research group working to make technology and digital power accountable to the public, and guide the development of accountable, sustainable, and safe algorithms that serve the public interest.
+
+Their research investigates the risks posed by large-scale collections of digital human traces from social media to biometrics as well as deployed AI technologies, identifying gaps in how technology is regulated and how risks are documented, and proposing better models for academic research using sensitive human data. Their research currently investigates privacy-enhancing technologies, pricing algorithms in online markets, public sector algorithms, social media recommendation systems, and citizen-led AI efforts.
+
+Luc specialises in human-centred computing approaches to investigate how humans and algorithms interact. Their research develops statistical models to make sense of these complex systems, adversarial machine learning approaches to highlight weaknesses of deployed technologies, and interactive tools to better understand what makes us vulnerable to privacy harms online.
+
+Luc’s research provides technical guidance to the challenges AI poses for competition law in digital platforms and data protection regulation online. Their work in Nature Communications for instance demonstrated the limits of traditional techniques to de-identify and widely share ‘anonymous’ data online, calling for better privacy-preserving frameworks to disseminate and analyse personal data online.
+
+Prior to joining Oxford, Luc received a PhD from the Université catholique de Louvain in 2019 and worked as a researcher at the Data Science Institute and Computational Privacy Group of Imperial College London, at the ENS de Lyon, and at the MIT Media Lab.
+
+Their work has been published in peer-reviewed journals and conferences (Nature Communications, Science Advances, Nature Machine Intelligence, Nature Scientific Data, Usenix Security, JMLR, WWW) and has been covered by 160+ newspapers (New York Times, The Guardian, The Telegraph, Forbes, El Pais, Scientific American) as well as featured in John Oliver’s Last Week Tonight, BBC World Service, France TV, and Radio Canada. Their research on the limitation of anonymisation practices has been referenced by the European Commission, OECD, World Bank, WEF, FTC, by European data protection authorities, in US legal cases, and led to changes to the UK’s Data Protection Bill.
+
+Luc was General Chair of Hot Topics in Privacy Enhancing Technologies (HotPETS) in 2023 and 2024, and has been Area Chair for the ACM FAccT Conference on Fairness, Accountability and Transparency in 2024 and 2025. They sit on a range of programme committees and have reviewed from numerous journals including Nature, Nature Communications, Science Advances, and Big Data & Society.
+
+Luc leads the Observatory of Anonymity, an international interactive website in 89 countries where visitors can find out what makes them more vulnerable to re-identification and where researchers can test the anonymity of their research data.
+
+Pronouns: they/them.
+
+Areas of interest for Doctoral Supervision:
+
+I am looking for motivated students interested in studying the impact of privacy-enhancing technologies and auditing algorithms used by public institutions and online platforms. Interest in HCI, AI fairness and human-centred evaluations, mathematical modelling and complex systems appreciated (including Bayesian statistics, optimisation, network science, machine learning, Python/Julia programming). Further information on the Synthetic Society Lab website.
+
+Positions at the OII
+Associate Professor, July 2025 -
+Senior Research Fellow, January 2025 - July 2025
+DPhil Programme Director (SDS), January 2023 - December 2024
+Lecturer, October 2021 - December 2024
+Contact
+luc.rocher@oii.ox.ac.uk
++44 (0)1865 287210
+they/them
+@cynddl
+rocher.lc
+LinkedIn
+rocher.lc/
+Google Scholar
+ORCID
+Research
+Publications
+
+Notable Publications
+Rocher, L., Sundaram Muthu Selva Annamalai, M. and Gadotti, A. (2024) "A Linear Reconstruction Approach for Attribute Inference Attacks against Synthetic Data", PROCEEDINGS OF THE 33RD USENIX SECURITY SYMPOSIUM, SECURITY 2024. USENIX Security, Philadelphia, PA, USA, 14–16 August 2024. USENIX Association. 2351-2368. (This paper was presented at the 33rd USENIX Security Symposium, 14th-16th August 2024, Philadelphia, PA, USA. An extended version can be found at https://doi.org/10.48550/arXiv.2301.10053)
+Ibrahim, L., Rocher, L. and Valdivia, A. (2024) Characterizing and modeling harms from interactions with design patterns in AI interfaces.
+Belisario, A., Hale, S. and Rocher, L. (2024) "Into the crossfire: evaluating the use of a language model to crowdsource gun violence reports" In: arXiv.
+Gadotti, A., Rocher, L., Houssiau, F., Cretu, A.-.M. and de Montjoye, Y.-.A. (2024) "Anonymization: The imperfect science of using data while preserving privacy", SCIENCE ADVANCES. 10 (29) eadn7053.
+Houssiau, F., Rocher, L. and de Montjoye, Y.-.A. (2022) "On the difficulty of achieving Differential Privacy in practice: user-level guarantees in aggregate location data", NATURE COMMUNICATIONS. 13 (1) 29.
+Rocher, L., Muthu, M.S. and de Montjoye, Y.-.A. (2021) "The Observatory of Anonymity: An Interactive Tool to Understand Re-Identification Risks in 89 Countries", Companion Proceedings of the Web Conference 2021WWW ’21. WWW '21: The Web Conference 2021. New York, NY, USA: Association for Computing Machinery. 687–689. (numpages: 3 keywords: Public Demonstration, Visualization, Data privacy location: Ljubljana, Slovenia)
+Gadotti, A., Houssiau, F., Rocher, L., Livshits, B., de Montjoye, Y.-.A. and Assoc, U.S.E.N.I.X. (2019) "When the Signal is in the Noise: Exploiting Diffix's Sticky Noise", Proceedings of the 28th USENIX Security Symposium. USENIX Security. 1081-1098.
+Rocher, L., Hendrickx, J.M. and De Montjoye, Y.-.A. (2019) "Estimating the success of re-identifications in incomplete datasets using generative models", NATURE COMMUNICATIONS. 10 (1) 3069.
+All Publications
+Projects
+Stewardship of Privacy-Enhancing Technologies
+
+The Synthetic Society Lab aims to improve how we research, access, and use sensitive human data. The fellowship will advance an evidence-based science of privacy engineering to make research using digital traces safe and reliable.
+
+
+ACTIVE
+
+
+VIEW PROJECT
+Seeing Migration Narratives
+
+Media narratives on migration are perceived to have a significant impact on policy decisions and public attitudes toward migration. The project applies tools and methods to enable practitioners to make more effective policy decisions.
+
+
+ACTIVE
+
+
+VIEW PROJECT
+Recordings
+From Space Internet to Cloud Computing: the future of big tech is in infrastructure
+
+With Dr Corinne Cath, Dr Yung Au, Dr Ashwin Mathew, and Dr Luc Rocher
+
+We bring together three expert panelists to discuss this topic through their contributions to a recently published book, called Eaten by the Internet.
+
+WATCH NOW
+Decoding deceptive algorithms: risks, public accountability, and regulation
+
+With Dr Luc Rocher
+
+Dramatic claims about the potential and risks of Artificial Intelligence are now legion. Computers could soon replace most jobs or become sentient warlords.
+
+WATCH NOW
+Blogs & Press releases
+New study warns of risks in AI chatbots giving medical advice
+
+9 February 2026
+
+Study finds AI chatbots less helpful than search engines for medical advice
+
+PRESS RELEASE
+READ NOW
+Oxford researchers to explore metrics and fairness at NeurIPS 2025
+
+25 November 2025
+
+Researchers from the Oxford Internet Institute at the University of Oxford will be at NeurIPS 2025 in San Diego from 1- 7 December, 2025, contributing to one of the world’s leading AI conferences.
+
+READ NOW
+Study identifies weaknesses in how AI systems are evaluated 
+
+4 November 2025
+
+Largest systematic review of AI benchmarks highlights need for clearer definitions and stronger scientific standards.
+
+PRESS RELEASE
+READ NOW
+Do language models have an issue with gender?
+
+9 June 2025
+
+The Oxford Internet Institute’s Franziska Sofia Hafner explores whether language models are perpetuating gender stereotypes.
+
+READ NOW
+1 2 3 Next
+Press Coverage
+Americans ask AI for health care. Hospitals think the answer is more chatbots.
+
+ARS Technica, 14 April 2026
+
+Article cites new research from OII researchers which warns about the risks in AI chatbots giving medical advice.
+
+READ NOW
+Now you can break up with big tech at a bar: ‘cybersecurity disguised as a party’
+
+Guardian Online, 16 April 2026
+
+The OII's Dr Luc Rocher comments on why people are turning away from big tech.
+
+READ NOW
+Pilier de l’intelligence artificielle, Hugging Face diffuse des centaines de milliers de documents soumis au droit d’auteur
+
+Mediapart, 06 April 2026
+
+L’entreprise propose une bibliothèque « open source » réunissant une quantité astronomique de livres et de documents, utilisés pour entraîner les modèles d’IA. Luc Rocher de l’OII commente.
+
+READ NOW
+1 2 3 … 9 Next

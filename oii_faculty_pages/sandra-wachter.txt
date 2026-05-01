@@ -1,0 +1,219 @@
+Skip down to main content
+Research
+Study
+People
+News & Events
+About
+Engage
+OII >  
+PEOPLE >  
+Professor Sandra Wachter
+Professor of Technology and Regulation
+Profile Contents
+About
+Positions at the OII
+Contact
+Research
+News & Press
+Recordings
+Teaching
+About
+
+Prof. Dr. Sandra Wachter is Professor of Technology and Regulation at the University of Oxford at the Oxford Internet Institute and is Humboldt Professor of Technology and Regulation at the Hasso Plattner Institute. At the Oxford Internet Institute, Professor Sandra Wachter leads and coordinates the Governance of Emerging Technologies (GET) Research Programme that investigates the legal and ethical implications of AI, Big Data, and robotics as well as Internet and platform regulation. Professor Wachter also serves as a policy advisor for governments, companies, and NGOs around the world on regulatory and ethical questions concerning emerging technologies.
+
+Professor Wachter publishes widely in top journals, including Science and Nature and focuses on legal, ethical, and technical aspects of AI and inferential analytics, explainable AI, algorithmic bias, platform regulation, profiling, as well as emotion- and facial-recognition software. The societal impact of generative AI and hallucinations in areas such as the future of work, misinformation, free press, and human rights is also at the heart of her research agenda.
+
+Professor Wachter is an affiliate and member at numerous institutions, such as the Berkman Klein Center for Internet & Society at Harvard University, World Economic Forum’s Global Futures Council on Values, Ethics and Innovation, UNESCO, European Parliament Working Group on AI Liability,  Law Committee of the IEEE, World Bank’s Task Force on Access to Justice and Technology, United Kingdom Police Ethics Guidance Group, British Standards Institution, Law Faculty at Oxford, Bonavero Institute of Human Rights, Oxford Martin School and the Oxford University Press.
+
+Previously, Professor Wachter was a visiting Professor at Harvard Law School. Prior to joining the OII she studied at the University of Oxford and the Law Faculty at the University of Vienna. She has also worked at the Alan Turing Institute, Royal Academy of Engineering and the Austrian Ministry of Health.
+
+Professor Wachter has been the subject of numerous media profiles, including by the Financial Times, Wired, Nature, TechCrunch, der Spiegel, and Business Insider. Her work has been prominently featured in several documentaries, including pieces by Wired , Reuters, and the BBC, and has been extensively covered by The New York Times, Time Magazine, Reuters, Forbes, Fortune, CNN, Harvard Business Review, Guardian, BBC, Telegraph, CNBC, CBC, Huffington Post, Washington Post, Science, Nature, MIT Tech Review, New Scientist, HBO, The Sunday Times, and Vice Magazine.
+
+Professor Wachter has received numerous awards, including the Alexander von Humboldt Foundation Research Award (2025) which grants EUR €3,5 Mio in funding, the O2RB Excellence in Impact Award (2018 and 2021), the Computer Weekly Women in UK Tech award (2021),  the Privacy Law Scholar (PLSC) Award (2019) for her paper A Right to Reasonable Inferences: Re-Thinking Data Protection Law in the Age of Big Data and AI, and the CognitionX Outstanding Achievements & Research Contributions – AI Ethics Award X  (2017 and 2023) for her contributions in AI governance.
+
+Professor Wachter’s work on opening the ‘AI Blackbox’ to increase accountability, transparency, and explainability is widely successful. Her explainability tool – Counterfactual Explanations – has been implemented by major tech companies such as Google, Accenture,  IBM, Microsoft, Arthur and Vodafone.
+
+Professor Wachter’s work to combat bias has shown that the majority (13/20) of popular bias tests and tools do not live up to the standards of EU non-discrimination law. In response she developed a bias test (‘Conditional Demographic Disparity’ or CDD) that meets EU and UK standards. Amazon  and IBM picked up her work and implemented it in their cloud services. In 2024, CDD was used to uncover systemic bias in education in the Netherlands. The Dutch Minister for Education, Culture and Science apologised for indirect discrimination and is now working to improve the algorithmic system in question.
+
+Wachter’s paper The Unfairness of Fair Machine Learning revealed the harmful impact of enforcing many ‘group fairness’ measures in practice by making everyone worse off, rather than helping disadvantaged groups. The NHS and the Medicines and Healthcare products Regulatory Agency (MHRA) is now using these findings internally to revise practices for licensing medical devices to ensure equal and safe access to medical care.
+
+Her work on generative AI and hallucinations explores if LLMs have a legal duty to tell the truth and focuses on tools to reduce hallucinations, inaccurate and harmful outputs or what she termed ‘careless speech’ to prevent the erosion of knowledge, facts, and shared history and to curb misinformation.
+
+Research Interests
+
+Data Ethics; Big Data; Artificial Intelligence; Generative AI; machine learning; algorithms; privacy; data protection, free speech,  non-discrimination, human rights, IP- and technology law; fairness, algorithmic bias, explainability; deepfakes; fake news; misinformation; governmental (algorithmic) surveillance; emotion- and facial-recognition detection; predictive policing; Internet and platform regulation; cyber-security; (bio)-medical law and robotics.
+
+Positions at the OII
+Professor of Technology and Regulation, August 2022 -
+Associate Professor, April 2019 - August 2022
+Senior Research Fellow, March 2019 - August 2022
+Research Fellow, February 2018 - March 2019
+Postdoctoral Researcher, February 2017 - January 2018
+Contact
+sandra.wachter@oii.ox.ac.uk
++44 (0)1865 287210
+@SandraWachter5
+@SandraWachter
+swachter.bsky.social
+LinkedIn
+Google Scholar
+ORCID
+Research
+Publications
+
+Notable Publications
+Mittelstadt, B., Wachter, S. and Russell, C. (2023) "The Unfairness of Fair Machine Learning: Levelling down and strict egalitarianism by default", Michigan Technology Law Review. 30 (30.1).
+Birhane, A., Kasirzadeh, A., Leslie, D. and Wachter, S. (2023) "Science in the age of large language models", NATURE REVIEWS PHYSICS. 5 (5) 277-280.
+Wachter, S. (2022) "The Theory of Artificial Immutability: Protecting Algorithmic Groups under Anti-Discrimination Law", SSRN Electronic Journal. 97 (1) 149-204.
+Wachter, S., Mittelstadt, B. and Russell, C. (2021) "Bias Preservation in Machine Learning: The Legality of Fairness Metrics Under EU Non-Discrimination Law", West Virginia Law Review. 123 (3).
+Wachter, S., Mittelstadt, B. and Russell, C. (2020) "Why Fairness Cannot Be Automated: Bridging the Gap Between EU Non-Discrimination Law and AI", Computer Law and Security Review: the International Journal of Technology Law and Practice. 41 105567.
+Wachter, S. (2020) "Affinity Profiling and Discrimination by Association in Online Behavioural Advertising", Berkeley Technology Law Journal. 35 (2) 369-430.
+Wachter, S. (2019) "Data Protection in the Age of Big Data", Nature Electronics. 2 (1) 6-7.
+Mittelstadt, B., Russell, C. and Wachter, S. (2018) "Explaining Explanations in AI", roceedings of FAT* ’19: Conference on Fairness, Accountability, and Transparency (FAT* ’19). FAT* ’19: Conference on Fairness, Accountability, and Transparency. ACM. 279-288. (Source info: Proceedings of FAT* ’19: Conference on Fairness, Accountability, and Transparency (FAT* ’19), January 29–31, 2019, Atlanta, GA, USA. ACM, New York, NY, USA, doi/10.1145/3287560.3287574, ISBN: 978-1-4503-6125-5)
+Wachter, S. and Mittelstadt, B. (2018) "A Right to Reasonable Inferences: Re-Thinking Data Protection Law in the Age of Big Data and AI", Columbia Business Law Review. 2 443-493.
+Wachter, S., Mittelstadt, B.D.M. and Russell, C. (2018) "Counterfactual Explanations Without Opening the Black Box: Automated Decisions and the GDPR", Harvard Journal of Law and Technology. 31 (2) 841-887.
+Wachter, S., Mittelstadt, B. and Floridi, L. (2017) "Transparent, Explainable, and Accountable AI for Robotics", Science Robotics, Vol. 2. 2 (6) eaan6080.
+Wachter, S., Mittelstadt, B. and Floridi, L. (2016) "Why a Right to Explanation of Automated Decision-Making Does Not Exist in the General Data Protection Regulation", International Data Privacy Law. 7 (2) 76-99.
+All Publications
+Projects
+Programme on the Governance of Emerging Technologies
+
+This OII research programme investigates legal, ethical, and social aspects of AI, machine learning, and other emerging information technologies.
+
+VIEW PROJECT
+Trustworthiness Auditing for AI
+
+This project will evaluate the effectiveness of accountability tools addressing explainability, bias, and fairness in AI. A ‘trustworthiness auditing meta-toolkit’ will be developed and validated via case studies in healthcare and open science.
+
+VIEW PROJECT
+AI and the Right to Reasonable Algorithmic Inferences
+
+The project will identify weaknesses in general and sectoral regulatory mechanisms—such as the limited protections afforded to inferences in data protection law—and argue for greater accountability by establishing a ‘right to reasonable inferences'.
+
+VIEW PROJECT
+1 2 3 Next
+Integrity Statement
+
+In the past five years my work has been financially supported by the Alfred P. Sloan Foundation, the Wellcome Trust, NHSx, British Academy, the John Fell Fund, Miami Foundation, Luminate Group, Engineering and Physical Sciences Research Council (EPSRC), DeepMind Technologies Limited, the Alan Turing Institute and the Alexander von Humboldt Foundation
+
+I conduct my research in line with the University's academic integrity code of practice.
+
+Recordings
+The OII Podcast Ep. 5: How AI is being regulated
+
+With Professor Sandra Wachter and Professor Brent Mittelstadt
+
+The current state of AI regulation, the challenges of regulating complex technologies and the risks of leaving big decisions to tech giants.
+
+LISTEN NOW
+Why Fairness Cannot Be Automated: Bridging the Gap Between EU Non-Discrimination Law and AI
+
+With Professor Sandra Wachter
+
+Professor Sandra Wachter, Associate Professor and Senior Research Fellow at the Oxford Internet Institute examines non-discriminatory AI.
+
+WATCH NOW
+Privacy, identity, and autonomy in the age of big data and AI
+
+With Professor Sandra Wachter
+
+Privacy, identity, and autonomy in the age of big data and AI - Sandra Wachter, University of Oxford speaking at the Strata Data Conference.
+
+WATCH NOW
+Sandra Wachter: Exploring fairness, privacy and advertising in an algorithmic world
+
+With Professor Sandra Wachter
+
+Sandra Wachter is a Lawyer, Associate Professor and Senior Research Fellow at University of Oxford. In this video, Sandra discusses how the law can keep up with new technology.
+
+WATCH NOW
+1 2 Next
+News & Press
+Blogs & Press releases
+LLMs in medicine require new forms of risk management, according to Oxford researchers
+
+7 July 2025
+
+Whether it is merely long-term hype or near-term reality, Large Language Models (LLMs) in medicine are well-positioned to engage with a wide range of medical tasks and be used for medical research purposes.
+
+READ NOW
+The global implications of the limitations and loopholes of the E.U. AI Act’s and liability directives, according to an Oxford researcher
+
+19 August 2024
+
+Professor Sandra Wachter highlights the regulatory loopholes in EU AI legislation and proposes how these can be closed to address key ethical issues around the development of AI.
+
+READ NOW
+Large Language Models pose a risk to society and need tighter regulation, say Oxford researchers
+
+7 August 2024
+
+Leading experts in regulation and ethics at the Oxford Internet Institute, part of the University of Oxford, have identified a new type of harm created by LLMs which they believe poses long-term risks to democratic societies and needs to be addressed
+
+PRESS RELEASE
+READ NOW
+Safer Internet Day 2024 – Professor Sandra Wachter shares her insights on the rise of deepfakes and AI-generated online content
+
+5 February 2024
+
+As we mark Safer Internet Day, Professor Sandra Wachter, spoke to us about the online phenomenon known as ‘deepfakes’, how to spot them and the implications of the growing proliferation of deepfakes for internet safety.
+
+READ NOW
+1 2 3 … 8 Next
+Press Coverage
+Women are facing growing online abuse
+
+Newsweek, 05 March 2026
+
+Online abuse of US women is rising, with over a quarter facing harassment, worsened by AI like deepfakes. Professor Sandra Wachter calls the trend 'terrifying' and urges stronger legal action.
+
+READ NOW
+Matthew McConaughey trademarks iconic phrase to stop AI misuse
+
+BBC News, 15 January 2026
+
+Professor Sandra Wachter comments on the trend of celebrities trademarking their identity to protect themselves against AI deepfakes.
+
+READ NOW
+The Humiliation Is the Point’: Women Speak Out Over Sexualized Grok Images
+
+Newsweek, 11 January 2026
+
+If you’ve been on X in the last week, you will likely have seen prompts of this nature being shared to Elon Musk’s AI chatbot, Grok. The OII's Professor Sandra Wachter comments.
+
+READ NOW
+1 2 3 … 35 Next
+Teaching
+Current Students
+Kaivalya Rawal
+
+DPhil Student
+
+Kaivalya worked on AI explainability and fairness at Oxford. He built upon his work auditing and testing machine learning models in industry and in academia, making AI systems safe and trustworthy.
+
+VIEW PROFILE
+Current Courses
+Internet Technologies and Regulation
+
+This course examines social, political, and legal implications of Internet and emergent technologies on society with a focus on Europe and the US. We explore who shapes and who is shaped by the Internet, Artificial Intelligence, Generative AI and other technologies and how these tools should be governed.
+
+Stephen A. Schwarzman Centre for the Humanities
+University of Oxford
+Radcliffe Observatory Quarter
+Woodstock Road
+Oxford
+OX2 6GG +44 (0)1865 287210
+
+General: enquiries@oii.ox.ac.uk
+Press: press@oii.ox.ac.uk
+
+STAFF INTRANET
+NEWSLETTER
+FOLLOW US:
+INFORMATION FOR:
+Prospective students
+Alumni
+Job seekers
+Media
+Policy makers
+© Oxford Internet Institute 2026 | Terms of Use | Privacy Policy | Cookie Settings | Copyright Policy | Accessibility | Email Webmaster

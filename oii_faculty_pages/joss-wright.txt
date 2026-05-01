@@ -1,0 +1,122 @@
+Skip down to main content
+Research
+Study
+People
+News & Events
+About
+Engage
+OII >  
+PEOPLE >  
+Dr Joss Wright
+Associate Professor
+Profile Contents
+About
+Positions at the OII
+Contact
+Research
+News & Press
+Recordings
+Teaching
+About
+
+Professor Joss Wright is an Associate Professor, Co-Director of the Oxford EPSRC Cybersecurity Doctoral Training Centre and a Co-Director of the Oxford Martin Programme on the Wildlife Trade. His work focuses on computational approaches to social science questions, with a particular focus on technologies that exert, resist, or subvert control over information.
+
+Joss’ main areas of research are information controls, with a focus on internet censorship and shutdowns; privacy enhancing technologies and data anonymisation; and cybercrime, with a particular focus on the online illegal wildlife trade and its implications for biodiversity and conservation.
+
+Joss gained his PhD in Computer Science at the University of York, where his work focused on the modelling and analysis of anonymous communication systems. Following this, he spent time at the University of Siegen in Germany, researching security and privacy issues in cloud computing. He joined the OII as a postdoctoral research fellow in 2010.
+
+Research Interests
+
+Information controls, internet censorship, illegal wildlife trade, conservation, privacy enhancing technologies, machine learning, bayesian statistical inference, computational social science.
+
+Positions at the OII
+Associate Professor, June 2024 -
+Senior Research Fellow, November 2017 - June 2024
+Research Fellow, November 2012 - November 2017
+Fresnel Research Fellow, January 2010 - November 2012
+Contact
+joss.wright@oii.ox.ac.uk
+@josswright
+www.pseudonymity.net/
+Papers
+ORCID
+Research
+Publications
+
+All Publications
+Projects
+Oxford Martin Programme on Wildlife Trade
+
+This project will develop an international hub to track and analyse the global wildlife trade, both online and offline, and develop strategies to reduce the threat of the trade through social policy interventions.
+
+VIEW PROJECT
+Discriminatory Effects of Automated Decision Making in Information Controls
+
+This project seeks to determine how the factors that drive internet filtering can negatively affect vulnerable groups in society.
+
+VIEW PROJECT
+Economic Geographies of the Darknet
+
+This project investigates the economic geographies of illegal economic activities in anonymous internet marketplaces.
+
+VIEW PROJECT
+1 2 3 Next
+Integrity Statement
+
+In the past five years my research has been financially supported by the UK’s Engineering and Physical Sciences Research Council (EPSRC), the Oxford Martin School, Google, and the Alan Turing Institute.
+
+Blogs & Press releases
+Patents can help us understand wildlife trade trends, says Oxford study
+
+1 August 2024
+
+Researchers from the University of Oxford have identified analyses of patent-filing trends as a viable way to understand the wildlife trade’s future direction. They say that patent data can help identify future commercial trends.
+
+READ NOW
+2024 Russian Presidential Elections – How Digital Technologies Are Used to Wield Authoritarian Power
+
+13 March 2024
+
+Researchers from the Oxford Internet Institute and the University of Bremen share their insights on how digital technologies can be used to wield authoritarian power in the context of the Russian election.
+
+READ NOW
+Jack O’Callaghan: A UNIQ+ internship experience at OII
+
+21 September 2023
+
+Jack O’Callaghan, an undergraduate Economics student at the University of Kent, joined the Global Information and Technology Controls Hub at the Oxford Internet Institute as part of the University of Oxford UNIQ+ internship programme.
+
+READ NOW
+Harnessing online tactics to save a species
+
+25 September 2020
+
+READ NOW
+1 2 3 … 5 Next
+Press Coverage
+London Became a Global Hub for Phone Theft. Now We Know Why.
+
+New York Times, 15 October 2025
+
+About 80,000 phones were stolen in the British capital last year. The police are finally discovering where many of them went.
+
+READ NOW
+Inventions based on threatened animals like rhinos are on the rise
+
+New Scientist, 12 October 2023
+
+An analysis of patent records suggests there is growing commercial interest in products derived from rhinos and other threatened wildlife
+
+READ NOW
+It Took Us Less Than 24 Hours to Order an Endangered Tiger on Facebook
+
+Vice, 07 April 2022
+
+Bears, pangolins, leopard cats: It’s shockingly easy to buy some of the most endangered species globally on the world's largest social media platform.
+
+READ NOW
+1 2 Next
+Current Courses
+Subversive Technologies
+
+This course aims to provide students with an understanding of technologies that provide control over information flows and action on the internet, and those that resist or subvert that control.

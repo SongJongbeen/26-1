@@ -1,0 +1,178 @@
+Skip down to main content
+Research
+Study
+People
+News & Events
+About
+Engage
+OII >  
+PEOPLE >  
+Professor Helen Margetts
+Professor of Society and the Internet
+Profile Contents
+About
+Positions at the OII
+Contact
+Research
+News & Press
+Recordings
+Teaching
+About
+
+Helen Margetts is Professor of Society and the Internet and Professorial Fellow at Mansfield College. She is a political scientist specialising in the relationship between digital technology and government, politics and public policy. She is an advocate for the potential of multi-disciplinarity and computational social science for our understanding of political behaviour and development of public policy in a digital world. She has published over a hundred books, articles and policy reports in this area, including Political Turbulence: How Social Media Shape Collective Action (with Peter John, Scott Hale and Taha Yasseri, 2015); Paradoxes of Modernization (with Perri 6 and Christopher Hood, 2010); Digital Era Governance (with Patrick Dunleavy, 2006, 2008); and The Tools of Government in the Digital Age (with Christopher Hood, 2007).
+
+In the academic year 2025-6 Helen is on sabbatical leave and is spending time at the LSE, where she has been appointed Visiting Professor and Senior Adviser in the LSE Data Science Institute, working on a vision for AI and the social sciences.
+
+From 2018-2025 Helen was Director of the Public Policy Programme at The Alan Turing Insitute, the UK’s national institute for data science and artificial intelligence. The programme worked with over 100 policy-making organisations to research and develop ways of using data science and AI to improve policy-making and service provision, foster government innovation and establish a framework for the responsible development and deployment of AI and in government.
+
+Public Service
+
+Helen sits on the UK Home Office Scientific Advisory Council (HOSAC), the United Nations Committee of Experts on Public Administration (UN CEPA, from 2025), the UK Smart Data Council, the Advisory Board of the Bennett Institute for Applied Data Science at the University of Oxford and the Board of the International Conference of Computational Social Science. She was founding Editor-in-chief of the journal Policy and Internet.
+
+Awards and Honours
+
+In 2020 Helen was appointed Distinguished Affiliated Professor at the Technical University of Munich, Germany and awarded the Mayer-Struckmann Prize by the Heinrich Heine University Dusseldorf for “outstanding research in the social sciences and humanities on ‘Digitization and Democracy.'” In 2019 she was elected a Fellow of the British Academy (FBA). In March-April she held the John F Kluge Senior Chair in Technology and Society at the Library of Congress, Washington DC.  She was awarded an OBE for services to social and political science in the 2019 New Year’s Honours List. In 2018 she was awarded the Friedrich Schiedel Prize by the Technical University of Munich, for research and research leadership in politics and technology.  Her co-authored book Political Turbulence won the W.J.Mckenzie Prize of the UK Political Studies Association for best politics book in 2017. She was elected a Fellow of the Academy of Social Sciences in 2011. Earlier awards include winning with Patrick Dunleavy the ‘Political Scientists Making a Difference’ award in 2003 from the UK Political Studies Association, in part for a series of policy reports on Government on the Internet for the UK National Audit Office (1999-2009).
+
+Biography
+
+Professor Margetts joined the OII in 2004 from University College London where she was a Professor in Political Science and Director of the School of Public Policy. She began her career as a computer programmer and systems analyst with Rank Xerox after receiving her BSc in mathematics from the University of Bristol. She returned to study at the London School of Economics and Political Science in 1989, completing an MSc in Politics and Public Policy in 1990 and a PhD in Government in 1996. She worked as a researcher at LSE from 1991 to 1994 and a lecturer at Birkbeck College, University of London from 1994 to 1999.
+
+Areas of Interest for Doctoral Supervision
+
+Please note that Helen is on sabbatical for the 2025-2026 academic year and is not able to accept new DPhil students for 2026-27.
+
+Digital government, public management, public policy, collective action, political participation, democracy, political science, artificial intelligence data science, experiments.
+
+Research Interests
+
+Digital government, public management reform, tools of public policy, artificial intelligence and public policy, collective action, political participation, social science experiments, social data science/computational social science, alternative electoral systems, political extremism.
+
+Positions at the OII
+Director, October 2011 - April 2018
+Director of Graduate Studies, October 2009 - September 2009
+Director of Research, October 2004 - September 2009
+Professor of Society and the Internet, October 2004 -
+Contact
+helen.margetts@oii.ox.ac.uk
++44 (0)1865 287210
+@helenmargetts
+ORCID
+Publications
+
+All Publications
+Featured Publications
+Book
+Political Turbulence: How Social Media Shape Collective Action
+
+By Helen Margetts, Peter John, Scott Hale, and Taha Yasseri
+
+This book demonstrates how data science and experimentation with social data can provide a methodological toolkit for understanding, shaping, and perhaps even predicting the outcomes of a new "democratic turbulence".
+
+READ MORE
+1 2 3 Next
+Projects
+The Social Effects of AI Interaction
+
+This project uses a longitudinal randomised controlled trial to examine how prolonged LLM use changes people's perceptions and expectations of humans, the ways these changes may disproportionately impact women, and how such effects are linked to addi
+
+
+ACTIVE
+
+
+VIEW PROJECT
+Conversations between governments and citizens in a digital society
+
+This project seeks to understand how citizens listen and speak to public institutions, and how alternative AI-based models and framing might encourage democratic communication.
+
+VIEW PROJECT
+Political Volatility
+
+This project seeks to quantify trends and changes in the volatility of public opinion before and after widespread use of social media, and to study how social information can drive public opinion.
+
+VIEW PROJECT
+1 2 3 … 5 Next
+Recordings
+Why social sciences matter in the age of AI
+
+With Dr Carl Benedikt Frey, Professor Helen Margetts, and Dr Keegan McBride
+
+Watch OII experts Prof. Carl Frey and Prof. Helen Margetts as they explore social sciences' critical role in preparing us for the future.
+
+WATCH NOW
+The Oxford Internet Institute @ 20
+
+With Dr Victoria Nash, Professor Philip Howard, Professor Helen Margetts, Dr Andrew Graham, and Professor William H. Dutton
+
+Join us for a panel discussion, with OII Directors past and present, reflecting on what the OII has achieved in the last 20 years, and how it hopes to address current and future technology challenges going forward.
+
+WATCH NOW
+Data, data (science), get us out of here! Recommendations for resilient and fair policy-making in a crisis
+
+With Professor Helen Margetts and Professor Ben MacArthur
+
+Prof Helen Margetts, Professor of Society and the Internet, OII and Director, Public Policy Programme at The Alan Turing Institute in discussion with Ben MacArthur, Professor within Mathematical Sciences at the University of Southampton.
+
+WATCH NOW
+Symposium on Big Data and Human Development: Panel Discussion
+
+With Peter Tufano, Professor Helen Margetts, Professor Bitange Ndemo, Professor Sandy Pentland, and Dr Linnet E. M. Taylor
+
+Peter Tufano (University of Oxford) Prof. Helen Margetts (University of Oxford), Prof. Bitange Ndemo (University of Nairobi Business School), Prof. Sandy Pentland (MIT) and Dr Linnet Taylor (Tilburg University).
+
+WATCH NOW
+1 2 3 4 Next
+Blogs & Press releases
+Oxford and AISI researchers reveal how conversational AI can change political opinions
+
+4 December 2025
+
+A new joint study from the Oxford Internet Institute (OII) and the AI Security Institute (AISI) uncovers how conversational AI sways political beliefs and why it works.
+
+PRESS RELEASE
+READ NOW
+New report calls for decisive government action to help build public trust in AI
+
+24 September 2025
+
+A new paper from the Tony Blair Institute for Change, featuring a guest contribution from the OII’s Professor Helen Margetts, calls for government action to build better public trust in AI.
+
+READ NOW
+Tony Blair Institute joins forces with leading AI figures at the OII to share recommendations ahead of ‘AI Bill’ 
+
+13 September 2024
+
+A new report from the Tony Blair Institute, co-authored by leading AI figures including two Oxford Internet Institute researchers, has set out recommendations for government ahead of a future ‘AI Bill’.
+
+PRESS RELEASE
+READ NOW
+Governments can learn from Silicon Valley as they tackle AI and Data Science
+
+22 August 2024
+
+New analysis from political science experts at OII and LSE highlights the rise in digital government technologies and opportunities for the new UK government to deliver AI fuelled changes in public services.
+
+READ NOW
+1 2 3 … 21 Next
+Press Coverage
+Regulating sexual content online has always been a challenge – how we got here
+
+The Conversation, 30 January 2026
+
+Professor Helen Margetts and Professor Cosmina Dorobantu explore how free‑speech claims are used to sidestep a recurring problem: sexual content taking over new technologies, legal or not.
+
+READ NOW
+Prof Helen Margetts in conversation with the Today programme
+
+BBC R4 Today Programme, 29 December 2025
+
+AI pioneer Mustafa Suleyman is the fourth Today guest editor this Christmas period. The OII's Professor Helen Margetts reflects on the human aspect of AI and its wider implications for society.
+
+READ NOW
+A stream of negativity and abuse’: why are Labour MPs still sticking with X?
+
+FT.com, 23 January 2026
+
+Despite concerns, politicians continue to use Elon Musk’s platform in search of a ‘civilised debate’ with constituents. The OII's Professor Helen Margetts comments.
+
+READ NOW
+1 2 3 … 10 Next

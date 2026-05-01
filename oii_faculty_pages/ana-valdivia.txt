@@ -1,0 +1,200 @@
+Skip down to main content
+Research
+Study
+People
+News & Events
+About
+Engage
+OII >  
+PEOPLE >  
+Dr Ana Valdivia
+Lecturer in AI, Government & Policy
+Profile Contents
+About
+Positions at the OII
+Contact
+Research
+News & Press
+Recordings
+Teaching
+About
+
+Ana Valdivia is a Departmental Research Lecturer in Artificial Intelligence (AI), Government, and Policy at the Oxford Internet Institute (OII). She investigates how datafication and algorithmic systems are transforming political, social, and ecological territories and communities. Her interdisciplinary work, situated at the intersection of Critical Data/AI Studies and Computer Science, has made significant contributions to digital ecology and the environmental impacts of AI, tech surveillance including biometric systems, and algorithmic fairness and accountability. With a background in mathematics, her research focuses on bridging the gap between AI studies and the social sciences by combining both quantitative and qualitative methodologies. Apart from her academic contributions, she collaborates with civil society organisations based in Europe and Latin America and has presented her work invited by relevant institutions such as the United Nations, the European Parliament, the Cambridge Union, and the local government of Barcelona.
+
+Her current research agenda focuses on the AI supply chains, by investigating trade-off between environmental costs and social benefits of AI, from mineral extraction to chip manufacturing, data centres, and electronic waste dumps across different geographies. She is currently writing a book on this topic for Bristol University Press. Ana has explored the impact of datafication technologies in various contexts, including migration, gender-based violence and criminal justice. Her interdisciplinary methodology combines algorithmic systems and ethnographic methods. Her work has been published in notable AI and ethics conferences and journals, such as ACM Fairness, Accountability, and Transparency (FAccT), the AAAI/ACM Conference on AI, Ethics & Society, AI & Ethics, and AI & Society. Ana is currently an Associate Editor for the journal Big Data & Society, that publishes interdisciplinary work principally in the social sciences, humanities and computing and their intersections with the arts and natural sciences about the implications of digital technologies.
+
+Ana was awarded the Young Academy of Spain, which is member of the International Science Council. In 2025, she was also a Visiting Research Fellow at the UCL Centre of Advanced Studies. In the same year, she received the Teaching Excellence Award from the Social Sciences Division of the University of Oxford. In 2023, her research on AI supply chains was made possible by a grant from the British Academy. In 2022, Ana received the Post-Doctoral Enrichment Award by The Alan Turing Institute. She is also a former fellow of Data Science for Social Good programme at the University of Chicago.
+
+Her work has had a notable impact beyond academia and has garnered attention from international media outlets such as Al Jazeera, The Guardian, El País, The Washington Post, The New York Times, and Thomson Reuters, among others. Her work has also been featured in award-winning international documentaries, such as In The Belly of AI. She has delivered talks invited by the University of Cambridge (UK), Tecnológico de Monterrey (Mexico), Universidad de los Andes (Colombia), Princeton University (US), CNRS (France), University of Bologna (Italy), and has been invited by the historic debating and free speech society, the Cambridge Union.
+
+Research Interests
+
+Ana is interested in supervising projects that offer an original and critical perspective on AI, grounded in disciplines such as Science and Technology Studies (STS), Critical Data/AI Studies, Natural Language Processing (NLP), and Computational Social Science (CSS). As the main convenor of the course on Algorithmic Fairness and Accountability, she invites proposals that push boundaries across disciplines and merge methodologies, exploring sociotechnical issues and the technopolitical aspects of AI. Topics related to the epistemological power of algorithms and the materiality of AI are especially welcome.
+
+She welcomes invites to develop proposals from diverse backgrounds and contexts, including political ecology, media ecologies, surveillance studies, and digital infrastructures. Below is a list of potential topics, though it is not exhaustive:
+
+Environmental impacts of AI, from mineral extraction to e-waste landfills, including chip factories and data centres.
+Surveillance technologies, predictive policing, and risk assessment tools in the welfare system, law enforcement, or court systems.
+Quantitative and qualitative methods (machine learning or natural language processing intertwined with ethnographic or discourse analysis techniques);
+Algorithmic accountability and legal frameworks, its benefits and limitations;
+Algorithmic benefits and risks, stories from local communities and territories;
+Algorithmic contestations in different geographies from a technopolitical standpoint;
+Critical debates and provocations in AI Ethics.
+
+She strongly encourages students from any background who are eager to push the boundaries between disciplines and explore interdisciplinary methods within Critical Data/AI Studies to apply to work with her.
+
+Please also note that she is not taken DPhil candidates for the next academic year 2026/27.
+
+Positions at the OII
+Lecturer in AI, Government & Policy, September 2022 -
+Contact
+ana.valdivia@oii.ox.ac.uk
+@ana_valdi
+www.avaldivia.com
+Research
+Publications
+
+Notable Publications
+Valdivia, A. (2025) "Data Ecofeminism", PROCEEDINGS OF THE 2025 ACM CONFERENCE ON FAIRNESS, ACCOUNTABILITY, AND TRANSPARENCY, ACM FACCT 2025. The 2025 ACM Conference on Fairness, Accountability, and Trans- parency (FAccT ’25), Athens, Greece, 23–26 June 2025. ACM. 391-403.
+Hafner, F.S., Valdivia, A.N.A. and Rocher, L. (2025) "Gender Trouble in Language Models: An Empirical Audit Guided by Gender Performativity Theory", PROCEEDINGS OF THE 2025 ACM CONFERENCE ON FAIRNESS, ACCOUNTABILITY, AND TRANSPARENCY, ACM FACCT 2025. The 2025 ACM Conference on Fairness, Accountability, and Trans- parency (FAccT ’25), Athens, Greece, 23–26 June 2025. ACM. 1677-1695.
+Valdivia, A. (2024) "The supply chain capitalism of AI: a call to (re)think algorithmic harms and resistance through environmental lens", Information, Communication & Society. 28 (12) 2118-2134.
+Valdivia, A., Hyde-Vaamonde, C. and García-Marcos, J. (2024) "Judging the algorithm: Algorithmic accountability on the risk assessment tool for intimate partner violence in the Basque Country", AI&SOCIETY. 40 (4) 2633-2650.
+Valdivia, A., Serrajòrdia, J.C. and Swianiewicz, A. (2023) "There is an elephant in the room: towards a critique on the use of fairness in biometrics", AI and Ethics. 3 (4) 1407-1422.
+Valdivia, A. and Tazzioli, M. (2023) "Datafication Genealogies beyond Algorithmic Fairness: Making Up Racialised Subjects", PROCEEDINGS OF THE 6TH ACM CONFERENCE ON FAIRNESS, ACCOUNTABILITY, AND TRANSPARENCY, FACCT 2023. ACM FAccT 2023, Chicago, IL, USA, 12–15 June 2023. ACM. 840-850. (This paper was presented at the 6th Annual ACM FAccT Conference 2023, 12th-15th June 2023, Chicago, IL, USA.)
+Valdivia, A., Aradau, C., Blanke, T. and Perret, S. (2022) "Neither opaque nor transparent: A transdisciplinary methodology to investigate datafication at the EU borders", BIG DATA & SOCIETY. 9 (2) 20539517221124586.
+Valdivia, A., Sanchez-Monedero, J. and Casillas, J. (2021) "How fair can we go in machine learning? Assessing the boundaries of accuracy and fairness", INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS. 36 (4) 1619-1643.
+All Publications
+Projects
+Research Programme on AI, Government and Policy
+
+This programme supports research on AI, Government and Policy.
+
+
+ACTIVE
+
+
+VIEW PROJECT
+(De)coding AI: The impact of algorithmic infrastructure beyond the code
+
+This is a transdisciplinary project investigating AI infrastructures and its political and environmental impact.
+
+VIEW PROJECT
+Recordings
+Behind the Algorithmic Code: The Environmental Footprint of AI’s Supply Chains
+
+With Dr Ana Valdivia
+
+This talk presents insights from an 18-month investigation into the supply chains of AI, funded by a British Academy grant awarded to Dr Ana Valdivia.
+
+WATCH NOW
+(De)coding AI: Examining the impact of the lifecycle of algorithms
+
+With Dr Ana Valdivia
+
+This workshop will explore the interactions and controversies of algorithms beyond the code.
+
+WATCH NOW
+News & Press
+Blogs & Press releases
+From algorithmic fairness to LLM values, Oxford researchers offer paths to more human-centred AI at FAccT
+
+20 June 2025
+
+OII researchers are set to attend the Association of Computing Machinery (ACM) Conference on Fairness, Accountability and Transparency (FAccT) 2025.
+
+PRESS RELEASE
+READ NOW
+Four OII Academics Win Teaching Excellence Awards from the Social Sciences Divisional Board 
+
+17 June 2025
+
+Dr Adam Mahdi, Dr Ana Valdivia, Professor Greg Taylor, and Professor Kathryn Eccles are among the teaching faculty recognised for teaching excellence at Oxford. 
+
+READ NOW
+Do language models have an issue with gender?
+
+9 June 2025
+
+The Oxford Internet Institute’s Franziska Sofia Hafner explores whether language models are perpetuating gender stereotypes.
+
+READ NOW
+AI’s limited understanding of gender puts health equity at risk
+
+21 May 2025
+
+Oxford researchers reveal how AI language models encode a flawed and binary understanding of gender, posing significant risks for transgender, nonbinary, and even cisgender individuals.
+
+PRESS RELEASE
+READ NOW
+1 2 Next
+Press Coverage
+Planet goal: data centers and their energy and water consumption
+
+RTVE Noticias, 30 January 2026
+
+Dr Ana Valdivia spoke to Spanish broadcaster RTVE about data centres, energy consumption and the environmental impact of AI.
+
+READ NOW
+From Mexico to Ireland, Fury Mounts Over a Global A.I. Frenzy
+
+New York Times, 20 October 2025
+
+As tech companies build data centers worldwide to advance artificial intelligence, vulnerable communities have been hit by blackouts and water shortages, with commentary from the OII's Dr Ana Valdivia.
+
+READ NOW
+Water For Data
+
+Al Jazeera, 03 July 2025
+
+"What’s the environmental cost of our increasing data usage?" asks Al Jazeera, in a new documentary featuring an interview with the OII's Dr Ana Valdivia.
+
+READ NOW
+1 2 3 4 Next
+Teaching
+Current Students
+Lujain Ibrahim
+
+DPhil Student
+
+Lujain is a DPhil student in Social Data Science at the OII. Her research sits at the intersection of AI governance and human-centred computing, particularly examining how user autonomy and control are undermined in human-AI interactions.
+
+VIEW PROFILE
+Anna George
+
+DPhil Student
+
+Anna George is a Social Data Science doctoral student who uses computational approaches to study online political behaviour. Her research focuses on the message diffusion of alternative communities such as hate groups and political extremists.
+
+VIEW PROFILE
+Boxi Wu
+
+DPhil Student
+
+Boxi (bor-shi) is a DPhil researcher at the Oxford Internet Institute and a Research Policy Consultant with the OECD’s AI Policy Observatory (OECD.AI).
+
+VIEW PROFILE
+Current Courses
+Algorithmic Fairness and Accountability
+
+Examining automated decision-making systems and other algorithmic systems from a critical perspective, highlighting both their potential and the risks they pose to our societies.
+
+Stephen A. Schwarzman Centre for the Humanities
+University of Oxford
+Radcliffe Observatory Quarter
+Woodstock Road
+Oxford
+OX2 6GG +44 (0)1865 287210
+
+General: enquiries@oii.ox.ac.uk
+Press: press@oii.ox.ac.uk
+
+STAFF INTRANET
+NEWSLETTER
+FOLLOW US:
+INFORMATION FOR:
+Prospective students
+Alumni
+Job seekers
+Media
+Policy makers
+© Oxford Internet Institute 2026 | Terms of Use | Privacy Policy | Cookie Settings | Copyright Policy | Accessibility | Email Webmaster
