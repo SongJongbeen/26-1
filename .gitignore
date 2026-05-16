@@ -8,6 +8,10 @@ __pycache__/
 
 # unnecessary files
 국어원 과제/
+hira_downloads/
+msit_downloads/
+mohw_downloads/
+mfds_downloads/
 
 # pdf files
 # *.pdf
