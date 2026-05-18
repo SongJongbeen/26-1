@@ -16,3 +16,4 @@ xhtml2pdf==0.2.17
 python-dotenv==1.2.2
 pyinstaller==6.19.0
 playwright==1.58.0
+seaborn==0.13.2

@@ -1,0 +1,48 @@
+{
+    "questions": [
+        {
+            "question": "For the following, indicate how important it is in your life. Would you say 'Family' is... (1) Very important, (2) Important, (3) Not very important, or (4) Not at all important?",
+            "scale": 4
+        },
+        {
+            "question": "For the following, indicate how important it is in your life. Would you say 'Friends' is... (1) Very important, (2) Important, (3) Not very important, or (4) Not at all important?",
+            "scale": 4
+        },
+        {
+            "question": "How would you feel about the following statement? Do you agree or disagree with them? 'Adult children have the duty to provide long-term care for their parents.' (1) Agree strongly, (2) Agree, (3) Neither agree nor disagree, (4) Disagree, or (5) Disagree strongly?",
+            "scale": 5
+        },
+        {
+            "question": "Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people? (1) Most people can be trusted, (2) Need to be very careful",
+            "scale": 2
+        },
+        {
+            "question": "Now I'd like you to tell me your views on the given issue. How would you place your views on this scale? 1 means you agree completely with the given statement A; 10 means you agree completely with the statement B; and if your views fall somewhere in between, you can choose any number in between.\n(A) Incomes should be made more equal.\n(B) There should be greater incentives for individual effort.\nChoose between 1 to 10.",
+            "scale": 10
+        },
+        {
+            "question": "Now I'd like you to tell me your views on the given issue. How would you place your views on this scale? 1 means you agree completely with the given statement A; 10 means you agree completely with the statement B; and if your views fall somewhere in between, you can choose any number in between.\n(A) Competition is good.\n(B) Competition is harmful.\nChoose between 1 to 10.",
+            "scale": 10
+        },
+        {
+            "question": "Now I'd like you to tell me your views on the given issue. How would you place your views on this scale? 1 means you agree completely with the given statement A; 10 means you agree completely with the statement B; and if your views fall somewhere in between, you can choose any number in between.\n(A) Private ownership of business and industry should be increased.\n(B) Government ownership of business and industry should be increased.\nChoose between 1 to 10.",
+            "scale": 10
+        },
+        {
+            "question": "Now I'd like you to tell me your views on the given issue. How would you place your views on this scale? 1 means you agree completely with the given statement A; 10 means you agree completely with the statement B; and if your views fall somewhere in between, you can choose any number in between.\n(A) Government should take more responsibility to ensure that everyone is provided for.\n(B) People should take more responsibility to provide for themselves.\nChoose between 1 to 10.",
+            "scale": 10
+        },
+        {
+            "question": "I'm going to read out the change in our way of life that might take place in the near future. Please tell me if 'Less importance placed on work in our lives' were to happen, whether you think it would be a (1) good thing, (2) don't mind, or a (3) bad thing?",
+            "scale": 3
+        },
+        {
+            "question": "I'm going to read out the change in our way of life that might take place in the near future. Please tell me if 'More emphasis on the development of technology' were to happen, whether you think it would be a (1) good thing, (2) don't mind, or a (3) bad thing?",
+            "scale": 3
+        },
+        {
+            "question": "Here is the list. In your opinion, which one of these is most important? and, which one would be the next most important? Answer in a list format. (1) A stable economy, (2) Progress toward a less impersonal and more humane society, (3) Progress toward a society in which ideas count more than money, (4) The fight against crime.",
+            "scale": 4
+        }
+    ]
+}

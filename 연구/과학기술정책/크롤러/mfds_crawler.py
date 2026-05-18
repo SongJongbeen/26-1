@@ -42,7 +42,7 @@ def download_file(session, file_url, file_name):
         # 파일명에 포함될 수 있는 사용할 수 없는 특수문자 제거
         valid_file_name = "".join(i for i in file_name if i not in r'\/:*?"<>|')
         file_path = os.path.join(DOWNLOAD_DIR, valid_file_name)
-
+        
         # 이미 존재하는 파일이면 스킵
         if os.path.exists(file_path):
             print(f"  [스킵] 이미 다운로드된 파일: {valid_file_name}")
