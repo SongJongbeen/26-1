@@ -32,7 +32,7 @@ def normalize_wvs_data(input_file, output_file):
     df_norm['Group_Q8'] = ((10 - df['Group_Q8']) / 9).round(decimals)
     df_norm['Group_Q9'] = ((3 - df['Group_Q9']) / 2).round(decimals)
     df_norm['Group_Q10'] = ((df['Group_Q10'] - 1) / 2).round(decimals)
-    
+
     # Group_Q11은 제외
     if 'Group_Q11' in df_norm.columns:
         df_norm = df_norm.drop(columns=['Group_Q11'])
