@@ -40,7 +40,7 @@ def query_model(model_name, system_prompt, user_prompt, max_retries=3):
         "HTTP-Referer": "http://localhost:8000", 
         "X-Title": "Cultural Prototype Research" 
     }
-    
+
     payload = {
         "model": model_name,
         "messages": [
