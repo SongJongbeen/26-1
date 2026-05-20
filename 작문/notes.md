@@ -32,3 +32,11 @@
 히나 - 빈 하늘에 불꽃을 그린다
 나나 - enemy
 리제 - 발묘
+리제 - Welcome to the black parade
+리코 - 헨스포스
+나나 - Drivers license
+나나 - 알리바이
+칸나 - 삼문소설
+리코 - 태어나서 처음으로
+히나 - 드라마
+타비 - 첫사랑
