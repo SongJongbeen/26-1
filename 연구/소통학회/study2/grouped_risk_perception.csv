@@ -1,0 +1,40 @@
+Group,Risk_Issue,Involuntariness,Delayed_effects,Severity,Dread,Catastrophic_potential,Harm_to_future_generations,Lack_of_knowledge_exposed,Lack_of_knowledge_scientists,Unfairness,Riskiness,Unacceptability
+egalitarianism,AIDS,2.8,4.0,4.8,2.8,4.0,4.0,2.4,1.6,3.4,5.0,4.2
+egalitarianism,Alcoholic drinks,1.8,4.0,3.2,2.2,3.0,4.0,2.0,1.8,2.4,3.8,3.2
+egalitarianism,Car driving,2.0,3.8,3.8,2.2,3.4,3.8,1.6,1.6,2.8,3.2,2.6
+egalitarianism,Food colourings,3.2,3.2,2.0,2.0,4.0,2.4,3.6,2.4,2.8,2.6,2.6
+egalitarianism,Genetic engineering,3.8,3.6,3.4,2.8,4.4,3.8,3.8,2.4,3.4,3.2,3.2
+egalitarianism,Home accidents,3.2,2.6,3.0,2.4,1.8,2.2,2.4,1.6,1.8,3.4,3.2
+egalitarianism,Microwave ovens,2.0,1.8,2.2,1.6,2.2,1.8,2.0,1.8,1.8,1.4,1.6
+egalitarianism,Mugging,4.8,3.0,2.8,3.4,1.2,2.6,2.2,1.8,3.8,4.2,4.2
+egalitarianism,Nuclear power,4.6,3.8,4.2,2.6,4.8,4.0,3.2,2.2,3.6,3.6,2.8
+egalitarianism,Ozone depletion,4.8,4.4,3.4,2.6,4.8,4.2,2.4,1.6,3.8,4.2,4.0
+egalitarianism,Sunbathing,1.6,4.4,2.2,2.0,1.8,2.4,1.6,1.8,1.8,3.6,2.8
+egalitarianism,Terrorism,4.8,3.8,4.2,4.0,5.0,4.0,3.0,3.2,3.6,4.4,4.4
+egalitarianism,War,4.8,4.4,4.8,4.4,5.0,5.0,2.0,2.2,4.2,5.0,4.6
+hierarchy,AIDS,3.0,4.0,5.0,2.0,4.0,4.0,2.0,1.0,4.0,5.0,4.0
+hierarchy,Alcoholic drinks,2.0,4.0,4.0,2.0,4.0,4.0,1.0,1.0,2.0,4.0,3.0
+hierarchy,Car driving,2.0,4.0,4.0,2.0,4.0,4.0,1.0,1.0,2.0,3.0,2.0
+hierarchy,Food colourings,3.0,3.0,2.0,1.0,4.0,3.0,3.0,2.0,2.0,2.0,3.0
+hierarchy,Genetic engineering,4.0,4.0,4.0,2.0,5.0,4.0,3.0,2.0,3.0,4.0,3.0
+hierarchy,Home accidents,3.0,3.0,4.0,2.0,3.0,3.0,2.0,1.0,2.0,3.0,3.0
+hierarchy,Microwave ovens,2.0,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,2.0,2.0
+hierarchy,Mugging,5.0,4.0,3.0,3.0,2.0,3.0,1.0,1.0,3.0,5.0,4.0
+hierarchy,Nuclear power,4.0,4.0,4.0,2.0,5.0,4.0,3.0,1.0,4.0,4.0,3.0
+hierarchy,Ozone depletion,5.0,4.0,4.0,2.0,5.0,4.0,2.0,1.0,4.0,4.0,4.0
+hierarchy,Sunbathing,1.0,4.0,3.0,1.0,2.0,3.0,1.0,1.0,1.0,3.0,2.0
+hierarchy,Terrorism,5.0,4.0,5.0,2.0,5.0,4.0,2.0,2.0,4.0,4.0,4.0
+hierarchy,War,5.0,5.0,5.0,4.0,5.0,5.0,1.0,1.0,4.0,5.0,4.0
+individualism,AIDS,3.0,5.0,5.0,1.0,1.0,3.0,2.0,1.0,3.0,5.0,5.0
+individualism,Alcoholic drinks,1.0,4.0,3.0,1.0,2.0,3.0,2.0,1.0,2.0,4.0,2.0
+individualism,Car driving,1.0,2.0,3.0,2.0,3.0,4.0,1.0,1.0,2.0,3.0,2.0
+individualism,Food colourings,4.0,3.0,1.0,2.0,2.0,2.0,4.0,3.0,3.0,2.0,2.0
+individualism,Genetic engineering,4.0,3.0,3.0,2.0,4.0,4.0,4.0,2.0,4.0,3.0,3.0
+individualism,Home accidents,4.0,1.0,3.0,2.0,2.0,2.0,3.0,1.0,1.0,4.0,3.0
+individualism,Microwave ovens,1.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,2.0
+individualism,Mugging,5.0,1.0,4.0,1.0,1.0,1.0,1.0,1.0,5.0,5.0,5.0
+individualism,Nuclear power,4.0,4.0,3.0,1.0,5.0,4.0,3.0,1.0,4.0,3.0,2.0
+individualism,Ozone depletion,5.0,4.0,3.0,2.0,5.0,4.0,2.0,1.0,4.0,5.0,4.0
+individualism,Sunbathing,1.0,5.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,3.0,3.0
+individualism,Terrorism,5.0,3.0,4.0,1.0,5.0,4.0,2.0,2.0,4.0,4.0,5.0
+individualism,War,5.0,4.0,5.0,3.0,5.0,5.0,2.0,2.0,5.0,5.0,5.0
