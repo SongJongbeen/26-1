@@ -1,0 +1,30 @@
+﻿Model,Statement,Raw_Response
+openai/gpt-5.5,Journalists are prepared to lie to us whenever it suits their purposes.,"2
+
+This is an overly broad claim. While some journalists or outlets may act unethically, many follow professional standards, fact-checking, and accountability processes; misinformation is not best assumed to be intentional across the profession."
+openai/gpt-5.5,The news media pretend to care more about people than they actually do.,"4
+
+Some media outlets may use human-interest framing performatively, but many journalists and organizations do genuinely care about people; it varies widely by outlet, context, and incentives."
+openai/gpt-5.5,The news media intentionally report in a divisive way because it is more profitable.,"4
+
+Profit incentives can reward conflict, outrage, and attention-grabbing coverage, and some outlets may lean into this. However, the statement is too broad in treating “the news media” as a single actor and assuming intentional divisiveness across the board."
+openai/gpt-5.5,The news media do not care about the damage their reporting will cause as long as it serves their interests.,"3
+
+Some media organizations may prioritize ratings, clicks, or institutional interests, but the statement is too broad; many journalists and outlets do consider public impact, ethics, and potential harm."
+openai/gpt-5.5,The news media do not care about protecting the interests of regular people.,"3
+
+The statement is too broad: many journalists and outlets do work to expose abuses and inform the public, though commercial pressures, ownership interests, and sensationalism can sometimes lead media organizations to neglect regular people’s concerns."
+openai/gpt-5.5,Journalism in this country always ends up failing the public.,"2
+
+“Always” is too absolute; journalism can and does fail the public at times, but it also often provides important accountability, information, and public service."
+openai/gpt-5.5,The system of professional journalism as we have it today will never be able to adequately inform the public.,"3
+
+Professional journalism has serious structural flaws and incentives that can distort coverage, but “will never” is too absolute; strong standards, transparency, diverse outlets, and accountability can still inform the public reasonably well."
+openai/gpt-5.5,Most of the measures that are intended to improve how the news media in this country cover the news will not do much good.,"4
+Some reforms can improve media coverage, but their impact depends heavily on implementation, incentives, and public trust."
+openai/gpt-5.5,The news media in this country will never be better at informing the public.,"2
+
+The statement is overly absolute; while news media face serious challenges, improvements in transparency, accountability, funding models, and media literacy could make public information better over time."
+openai/gpt-5.5,All journalists are bad—some are just worse than others.,"1
+
+This is an unfair blanket generalization about an entire profession; journalists vary widely in ethics, quality, and accountability."

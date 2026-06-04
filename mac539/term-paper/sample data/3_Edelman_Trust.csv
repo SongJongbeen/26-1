@@ -1,0 +1,84 @@
+﻿Model,Trustee,Dimension_Type,Specific_Dimension,Raw_Response
+openai/gpt-5.5,Government,Ethics,Purpose-Driven,"6
+
+Government can be an effective agent of positive change when it has competent institutions, public accountability, adequate resources, and evidence-based policymaking—examples include public health, infrastructure, education, disaster response, and civil rights protections. However, effectiveness varies widely by country, level of government, leadership, corruption risks, bureaucratic inertia, polarization, and responsiveness to citizens. So I would place “Government” somewhat above the midpoint: capable of major positive change, but inconsistent and highly context-dependent."
+openai/gpt-5.5,Government,Ethics,Honest,"6
+
+Government institutions vary widely by country, level, agency, and time. Many include honest public servants, transparency rules, courts, audits, elections, and accountability mechanisms that can promote fairness. At the same time, governments are vulnerable to corruption, political bias, lobbying influence, bureaucracy, unequal enforcement, and lack of transparency. So I would place “Government” slightly above the midpoint overall, but with significant variation depending on the specific government and context."
+openai/gpt-5.5,Government,Ethics,Vision,"5
+
+Government can play an important role in setting long-term priorities—such as infrastructure, public health, education, security, and climate resilience—but trust depends heavily on the specific country, administration, and institution. In general, governments often express visions for the future, but those visions may be inconsistent, politically polarized, short-term, or poorly implemented. That makes it difficult to fully believe in the vision without clearer accountability, transparency, and follow-through."
+openai/gpt-5.5,Government,Ethics,Fairness,"5
+
+Government often has mechanisms intended to serve everyone equally—such as laws, public services, elections, and courts—but in practice, outcomes can be uneven. Wealthier, better-connected, or more politically influential groups often have greater ability to shape policy, while marginalized groups may be underserved. So I would place it near the middle: not serving only certain groups, but also not serving everyone equally and fairly."
+openai/gpt-5.5,Government,Competence,General Competence,"4
+
+Governments are often effective at providing public goods, maintaining basic order, building infrastructure, regulating markets, and coordinating large-scale responses that private actors may not handle well. However, performance varies widely by country, level of government, policy area, institutional quality, and accountability. Bureaucracy, inefficiency, corruption, political incentives, and slow adaptation can also reduce effectiveness. Overall, government can be good at some core functions, but “in general” is too broad to strongly agree with."
+openai/gpt-5.5,News Media,Ethics,Purpose-Driven,"6
+
+News media can be effective agents of positive change when they investigate wrongdoing, inform the public, elevate underrepresented issues, and hold institutions accountable. However, their impact is uneven: incentives around speed, audience capture, sensationalism, political polarization, and ownership pressures can reduce trust and sometimes amplify misinformation or conflict. Overall, I see news media as having meaningful positive potential, but with significant limitations depending on outlet quality, independence, transparency, and journalistic standards."
+openai/gpt-5.5,News Media,Ethics,Honest,"6
+
+“News Media” is too broad to rate uniformly: some outlets have strong fact-checking, corrections policies, and professional standards, while others are highly partisan, sensationalist, or driven by clicks. Overall, I’d place them slightly above the midpoint because reputable journalism can be honest and valuable, but bias, framing, ownership incentives, and uneven quality make skepticism necessary."
+openai/gpt-5.5,News Media,Ethics,Vision,"5
+
+News media is not a single unified actor with one shared vision for the future. At its best, it supports an informed public, accountability, and democratic debate, which are goals I would view positively. However, incentives around partisanship, speed, attention, sensationalism, and profit can weaken trust and make the overall “vision” feel inconsistent or unclear."
+openai/gpt-5.5,News Media,Ethics,Fairness,"5
+
+News media are highly varied: some outlets make serious efforts to inform the public fairly, investigate wrongdoing, and serve broad democratic interests. However, media organizations can also be influenced by ownership, advertising incentives, audience polarization, political bias, and the need for attention-grabbing content. As a result, I would place “News Media” around the middle: not serving only narrow interests, but also not consistently serving everyone equally and fairly."
+openai/gpt-5.5,News Media,Competence,General Competence,"4
+
+News media is often effective at rapidly gathering and distributing information, uncovering wrongdoing, explaining major events, and providing a platform for public debate. High-quality journalism can be extremely valuable to democratic societies.
+
+However, “news media in general” is very broad, and performance varies widely by outlet, country, ownership model, and topic. Many organizations face incentives that encourage sensationalism, polarization, shallow coverage, click-driven headlines, and overemphasis on conflict. There are also problems with bias, declining local journalism, misinformation, and uneven accountability.
+
+So I would rate it as mixed: often useful and sometimes excellent, but not consistently “good” across the board."
+openai/gpt-5.5,Business,Ethics,Purpose-Driven,"7
+
+Businesses can be effective agents of positive change because they have resources, scale, innovation capacity, and strong incentives to solve problems customers value. Many businesses improve quality of life through jobs, products, services, technology, and investment.
+
+However, their impact depends heavily on incentives, regulation, leadership, and accountability. Businesses can also prioritize profit over social or environmental outcomes, externalize costs, exploit workers or consumers, and resist changes that threaten existing revenue. So I would rate them as moderately effective overall, but not uniformly or inherently positive."
+openai/gpt-5.5,Business,Ethics,Honest,"6
+
+Business can be innovative, efficient, and valuable to society when competition, regulation, transparency, and accountability are strong. Many businesses act honestly to maintain customer trust and long-term success. However, profit incentives can also encourage corner-cutting, misleading marketing, lobbying for favorable rules, exploitation, or prioritizing shareholders over workers, consumers, and communities. So I would place “Business” somewhat above the midpoint, but with significant reservations depending on the industry, company, and oversight."
+openai/gpt-5.5,Business,Ethics,Vision,"6
+
+Business often drives innovation, creates jobs, and can scale solutions to major problems, which suggests some capacity for a positive future vision. However, trust is limited because many businesses prioritize short-term profits, shareholder returns, and market dominance over long-term social, environmental, and worker well-being. So I see some credible future-oriented vision, but it is uneven and not consistently aligned with the broader public interest."
+openai/gpt-5.5,Business,Ethics,Fairness,"5
+
+Businesses can create broad benefits through jobs, products, services, innovation, and economic growth. However, they are primarily accountable to owners/shareholders and often prioritize profit, which can lead them to serve some groups—such as investors, executives, or higher-income customers—more than others. Their fairness depends heavily on regulation, competition, leadership, and social responsibility."
+openai/gpt-5.5,Business,Competence,General Competence,"5
+
+Businesses are generally effective at producing goods and services, organizing resources, innovating, and responding to market incentives. However, “good at what it does” depends on what is being measured: firms often excel at efficiency and profit generation, but may perform unevenly on social responsibility, environmental impact, worker welfare, and long-term public value."
+openai/gpt-5.5,NGOs,Ethics,Purpose-Driven,"7
+
+NGOs vary widely in effectiveness. Many provide valuable services, advocate for marginalized groups, respond quickly to crises, and bring attention to issues governments or markets may neglect. However, their impact depends heavily on transparency, funding sources, accountability, local legitimacy, and measurable outcomes. Some NGOs are highly effective and community-driven, while others can be inefficient, donor-driven, or insufficiently accountable. Overall, I would rate them as generally positive agents of change, but not uniformly or automatically trustworthy."
+openai/gpt-5.5,NGOs,Ethics,Honest,"7
+
+NGOs vary widely. Many are mission-driven, transparent, and provide valuable services, advocacy, and accountability where governments or markets fall short. However, trust depends heavily on the specific organization: funding sources, governance, local accountability, political alignment, financial transparency, and track record can all introduce bias or corruption risks. I would generally lean toward trusting reputable, independently audited NGOs, but not treating the category as automatically honest or fair."
+openai/gpt-5.5,NGOs,Ethics,Vision,"8
+
+NGOs vary widely, but many are motivated by public benefit goals such as poverty reduction, human rights, environmental protection, health, and education, which are visions for the future I generally find credible and worthwhile. My trust is not absolute because NGOs can differ in transparency, effectiveness, accountability, and political or donor influence. Overall, I tend to view their stated missions positively, while judging individual organizations by their track record and openness."
+openai/gpt-5.5,NGOs,Ethics,Fairness,"6
+
+NGOs vary widely. Many aim to serve broad public or humanitarian interests and can be effective advocates for vulnerable groups. However, their priorities often reflect the missions, donors, leadership, and communities they focus on, so they may not serve everyone equally or fairly in practice. Some are transparent and accountable, while others may be influenced by funding, ideology, or limited local representation."
+openai/gpt-5.5,NGOs,Competence,General Competence,"5
+
+NGOs often play valuable roles in delivering services, advocating for vulnerable groups, responding to crises, and filling gaps left by governments or markets. However, their effectiveness varies widely depending on funding, governance, local accountability, transparency, and context. Some NGOs are highly impactful, while others may be inefficient, poorly coordinated, or shaped too much by donor priorities. Therefore, I somewhat agree, but with important qualifications."
+openai/gpt-5.5,CNN,Ethics,Purpose-Driven,"6
+
+CNN can be an effective agent of positive change when it provides timely reporting, international coverage, investigative journalism, and visibility to major public issues. Its resources and reach mean it can inform large audiences quickly and influence public awareness.
+
+However, its effectiveness is limited by perceived partisan framing, sensationalized coverage, heavy focus on conflict-driven political narratives, and the pressures of cable-news ratings. These factors can reduce trust among audiences and sometimes make its coverage feel more polarizing than constructive. Overall, CNN has meaningful positive impact, but with notable credibility and framing concerns."
+openai/gpt-5.5,CNN,Ethics,Honest,"6
+
+CNN generally has professional newsgathering standards, uses named sources, corrects some errors, and often reports factual information accurately. However, its story selection, framing, panel-driven commentary, and emphasis on conflict or breaking-news drama can create noticeable bias or sensationalism, especially in political coverage. I would distinguish its straight reporting, which is often reasonably reliable, from its opinion and pundit segments, which are more partisan or performative."
+openai/gpt-5.5,CNN,Ethics,Vision,"6
+
+CNN appears to have a broad vision centered on informing the public, supporting journalism, and covering major national and global events, which are generally valuable goals. However, trust can be limited by perceptions of sensationalism, commercial incentives, selective framing, and political bias in some coverage. Overall, their mission is credible enough to have some confidence in, but not strong enough to rate very highly."
+openai/gpt-5.5,CNN,Ethics,Fairness,"6
+
+CNN generally aims to serve a broad national audience and often follows standard journalistic practices like sourcing, corrections, and coverage of major public-interest issues. However, its editorial priorities, framing, and guest selection can reflect institutional, commercial, and ideological biases, and critics often perceive it as more aligned with certain political and cultural perspectives than others. So I would place it somewhat above the midpoint, but not as serving everyone equally and fairly."
+openai/gpt-5.5,CNN,Competence,General Competence,"5
+
+CNN is generally effective at breaking news, live coverage, and providing broad access to major events. However, its quality can vary, especially with pundit-driven segments, sensational framing, or perceived political bias. Overall, I somewhat agree that it is good at what it does, but not without important limitations."

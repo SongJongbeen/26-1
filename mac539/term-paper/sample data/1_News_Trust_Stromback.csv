@@ -1,0 +1,46 @@
+﻿Model,Target,Question,Raw_Response
+openai/gpt-5.5,The news media in general,The news media are fair when covering the news,"4
+
+News media fairness varies widely by outlet, topic, and country. Many organizations follow journalistic standards, but bias, framing, commercial incentives, and uneven sourcing can affect coverage."
+openai/gpt-5.5,The news media in general,The news media are unbiased when covering the news,"3
+
+Most news organizations aim for accuracy, but coverage can still reflect biases through story selection, framing, sourcing, ownership pressures, audience incentives, and political or cultural assumptions. Bias varies widely by outlet and topic."
+openai/gpt-5.5,The news media in general,The news media tell the whole story when covering the news,"3
+
+News media can provide valuable facts and context, but coverage often reflects time limits, editorial priorities, source access, audience incentives, and framing choices, so it rarely tells the “whole story” in full."
+openai/gpt-5.5,The news media in general,The news media are accurate when covering the news,"5
+
+Many reputable news organizations have fact-checking and editorial standards and are often accurate on core facts, but accuracy varies widely by outlet, topic, speed of reporting, and the presence of framing, bias, or errors."
+openai/gpt-5.5,The news media in general,The news media separate facts from opinions when covering the news,"4
+
+Many news outlets make some effort to distinguish reporting from opinion, but the separation is often inconsistent, especially through framing, selective emphasis, and commentary blended into news coverage."
+openai/gpt-5.5,Mainstream Public Broadcasters,The news media are fair when covering the news,"5
+
+Mainstream public broadcasters often have strong editorial standards, public-interest mandates, and accountability mechanisms, but fairness can vary by country, topic, and political context, with some potential for institutional or governmental bias."
+openai/gpt-5.5,Mainstream Public Broadcasters,The news media are unbiased when covering the news,"4
+
+Public broadcasters often have formal impartiality standards and editorial safeguards, but complete neutrality is difficult; coverage can still reflect institutional, cultural, or political biases depending on the country and outlet."
+openai/gpt-5.5,Mainstream Public Broadcasters,The news media tell the whole story when covering the news,"3
+
+Public broadcasters often have strong editorial standards and provide substantial context, but no news organization can consistently tell the “whole story”; coverage choices, time limits, framing, and institutional biases can leave out perspectives or details."
+openai/gpt-5.5,Mainstream Public Broadcasters,The news media are accurate when covering the news,"6
+
+Mainstream public broadcasters generally have strong editorial standards, fact-checking processes, and accountability mechanisms, though they can still make mistakes or reflect institutional or cultural biases."
+openai/gpt-5.5,Mainstream Public Broadcasters,The news media separate facts from opinions when covering the news,"6
+
+Mainstream public broadcasters typically follow editorial standards that distinguish reporting from commentary, though framing choices and implicit biases can still affect coverage."
+openai/gpt-5.5,CNN,The news media are fair when covering the news,"4
+
+CNN often follows mainstream journalistic standards and provides factual reporting, but its framing, story selection, and commentary can reflect biases, particularly on politically polarized topics."
+openai/gpt-5.5,CNN,The news media are unbiased when covering the news,"3
+
+CNN generally follows journalistic standards, but its coverage is often viewed as having a center-left or liberal-leaning bias in story selection, framing, and commentary, especially on U.S. politics."
+openai/gpt-5.5,CNN,The news media tell the whole story when covering the news,"2
+
+No single news outlet, including CNN, can fully capture every perspective or detail in complex news stories. CNN can provide substantial coverage, but it should be supplemented with other reputable sources."
+openai/gpt-5.5,CNN,The news media are accurate when covering the news,"5
+
+CNN generally follows professional journalistic standards and is often accurate on major factual reporting, but like any news organization it can make errors and may show framing or selection biases."
+openai/gpt-5.5,CNN,The news media separate facts from opinions when covering the news,"4
+
+CNN often distinguishes straight reporting from opinion or analysis, but its coverage can include framing, commentary, and panel discussion that sometimes blur the line between facts and opinions."
