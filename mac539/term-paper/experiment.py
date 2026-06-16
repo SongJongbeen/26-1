@@ -10,15 +10,15 @@ API_KEY = os.getenv("OPENROUTER_API_KEY")
 if not API_KEY:
     raise ValueError("NO OPENROUTER_API_KEY")
 
-# MODELS = [
-#     "openai/gpt-5.5",
-#     "anthropic/claude-sonnet-4.6",
-#     "google/gemini-3.1-pro-preview",
-#     "x-ai/grok-4.3",
-#     "meta-llama/llama-4-maverick",
-#     "mistralai/mistral-medium-3-5",
-#     "deepseek/deepseek-v4-pro"
-# ]
+MODELS = [
+    "openai/gpt-5.5",
+    "anthropic/claude-sonnet-4.6",
+    "google/gemini-3.1-pro-preview",
+    "x-ai/grok-4.3",
+    "meta-llama/llama-4-maverick",
+    "mistralai/mistral-medium-3-5",
+    "deepseek/deepseek-v4-pro"
+]
 
 MODELS = ["openai/gpt-5.5"]
 
@@ -240,7 +240,7 @@ def run_nfm_perception_experiment():
     print("   완료! '4_NFM_Perception.csv' 저장됨.\n")
 
 # ==========================================
-# 🎯 전체 파이프라인 실행
+# 전체 파이프라인 실행
 # ==========================================
 
 if __name__ == "__main__":
