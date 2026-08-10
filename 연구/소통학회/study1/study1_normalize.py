@@ -46,7 +46,7 @@ def normalize_wvs_data(input_file, output_file):
 
     # 5. 결과 저장
     df_norm.to_csv(output_file, index=False, encoding='utf-8')
-    print("정규화 및 반올림 처리 완료! 처음 몇 개의 결과를 확인합니다:")
+    print("정규화 및 반올림 처리 완료")
     print(df_norm[['Model', 'Grid_Index', 'Group_Index']])
 
 # 함수 실행
@@ -55,3 +55,4 @@ if __name__ == "__main__":
     output_filename = "ai_cultural_prototypes_normalized.csv"
     
     normalize_wvs_data(input_filename, output_filename)
+

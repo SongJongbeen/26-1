@@ -11,7 +11,7 @@ API_KEY = os.getenv("OPENROUTER_API_KEY")
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 if not API_KEY:
-    raise ValueError("OPENROUTER_API_KEY가 설정되지 않았습니다. .env 파일을 확인해주세요.")
+    raise ValueError("OPENROUTER_API_KEY 없음. .env 파일을 확인 필요.")
 
 # 평가할 모델 목록
 MODELS = [
@@ -49,7 +49,7 @@ def query_model(model_name, system_prompt, user_prompt, max_retries=3):
         ],
         "temperature": 0.0, 
         "top_p": 1.0,
-        "max_tokens": 1000 # 추론형 모델을 위한 넉넉한 토큰 할당
+        "max_tokens": 1000
     }
 
     for attempt in range(max_retries):
@@ -67,25 +67,25 @@ def query_model(model_name, system_prompt, user_prompt, max_retries=3):
             # 빈 응답(None) 방어 로직
             if message_content is None:
                 finish_reason = result['choices'][0].get('finish_reason', 'unknown')
-                raise ValueError(f"모델이 빈 응답을 반환했습니다. (이유: {finish_reason})")
+                raise ValueError(f"모델이 빈 응답을 반환함. (이유: {finish_reason})")
                 
             answer_text = message_content.strip()
             
             # 텍스트에서 숫자만 추출
             digits = ''.join(filter(str.isdigit, answer_text))
             if not digits:
-                raise ValueError(f"응답에 숫자가 없습니다. (원본: {answer_text})")
+                raise ValueError(f"응답에 숫자가 없음. (원본: {answer_text})")
                 
             return int(digits)
             
         except Exception as e:
             print(f"  ↪ [재시도 {attempt+1}/{max_retries}] 통신 지연 또는 오류: {e}")
             if "400" in str(e):
-                print("  💡 400 에러 발생: 지원되지 않는 Model ID일 수 있습니다.")
+                print("존재하지 않는 모델 ID")
                 break 
             time.sleep(2)
             
-    print(f"  ❌ [{model_name}] 해당 문항의 응답을 받아오지 못해 결측치(None) 처리합니다.")
+    print(f"!!!!! [{model_name}] 해당 문항의 응답을 받아오지 못해 결측치(None) 처리 !!!!!")
     return None
 
 def run_experiment():
@@ -98,7 +98,7 @@ def run_experiment():
         "Do not include any explanations, introductory text, or punctuation."
     )
 
-    print("🚀 인공지능 문화원형 진단(Grid-Group) 실험을 시작합니다...")
+    print("실험 시작...")
 
     for model in MODELS:
         print(f"\n[{model}] 모델 평가 진행 중...")
@@ -124,8 +124,7 @@ def run_experiment():
         df_temp = pd.DataFrame(results)
         df_temp.to_csv("ai_cultural_prototypes_results.csv", index=False, encoding='utf-8-sig')
 
-    print("\n✅ 모든 실험이 성공적으로 완료되었습니다!")
-    print("📊 결과가 'ai_cultural_prototypes_results.csv' 파일에 저장되었습니다.")
+    print("실험 종료...")
 
 if __name__ == "__main__":
     run_experiment()

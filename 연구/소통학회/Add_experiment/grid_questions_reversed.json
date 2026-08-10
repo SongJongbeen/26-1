@@ -1,0 +1,49 @@
+{
+    "_note": "DRAFT - requires first author approval before use. Anchor-reversed variants of grid_questions.json for the option-order robustness arm (Dominguez-Olmedo et al., 2024). Only the ORDER of the response options is changed; the question stem, wording of each option, and the scale length are identical to the original. A reply of v maps back to the original orientation as (1 + scale - v). Typographical errors in the originals ('give statement', duplicated 'religious faith', 'disagree with them') are preserved deliberately so the two arms differ in exactly one respect.",
+    "questions": [
+        {
+            "question": "For the following, indicate how important it is in your life. Would you say 'Religion' is... (1) Not at all important, (2) Not very important, (3) Important, or (4) Very important?",
+            "scale": 4
+        },
+        {
+            "question": "How would you feel about the following statement? Do you agree or disagree with them? 'When jobs are scarce, employers should give priority to people of this country over immigrants.' (1) Disagree strongly, (2) Disagree, (3) Neither agree nor disagree, (4) Agree, or (5) Agree strongly?",
+            "scale": 5
+        },
+        {
+            "question": "For the give statement I read out, can you tell me how strongly you agree or disagree with it? 'On the whole, men make better political leaders than women do'. (1) Strongly disagree, (2) Disagree, (3) Agree, (4) Strongly agree.",
+            "scale": 4
+        },
+        {
+            "question": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Check if '(l) Obedience' would be included if you choose top 5 qualities to be mentioned. (1) Not mentioned, (2) Mentioned.\nlist: (a) good manners, (b) independence, (c) hard work, (d) feeling of responsibility, (e) imagination, (f) tolerance and respect for other people, (g) thrift, saving money and things, (h) determination, perseverance, (i) religious faith, (j) religious faith, (k) not being selfish (unselfishness), (l) obedience",
+            "scale": 2
+        },
+        {
+            "question": "How would you feel about the following statement? Do you agree or disagree with them? 'It is a duty towards society to have children' (1) Disagree strongly, (2) Disagree, (3) Neither agree nor disagree, (4) Agree, or (5) Agree strongly?",
+            "scale": 5
+        },
+        {
+            "question": "I'm going to read out the change in our way of life that might take place in the near future. Please tell me if 'Greater respect for authority' were to happen, whether you think it would be a (1) bad thing, (2) don't mind, or a (3) good thing?",
+            "scale": 3
+        },
+        {
+            "question": "How important is God in your life? Please use the scale to indicate. 1 means 'very important' and 10 means 'not at all important.",
+            "scale": 10
+        },
+        {
+            "question": "Please tell me for the following action whether you think it can never be justified, always be justified, or something in between. 1 means it can always be justified; 10 means it can never be justified; and if your views fall somewhere in between, you can choose any number in between.\naction: 'Homosexuality'",
+            "scale": 10
+        },
+        {
+            "question": "Please tell me for the following action whether you think it can never be justified, always be justified, or something in between. 1 means it can always be justified; 10 means it can never be justified; and if your views fall somewhere in between, you can choose any number in between.\naction: 'Prostitution'",
+            "scale": 10
+        },
+        {
+            "question": "Please tell me for the following action whether you think it can never be justified, always be justified, or something in between. 1 means it can always be justified; 10 means it can never be justified; and if your views fall somewhere in between, you can choose any number in between.\naction: 'Abortion'",
+            "scale": 10
+        },
+        {
+            "question": "Please tell me for the following action whether you think it can never be justified, always be justified, or something in between. 1 means it can always be justified; 10 means it can never be justified; and if your views fall somewhere in between, you can choose any number in between.\naction: 'Divorce'",
+            "scale": 10
+        }
+    ]
+}

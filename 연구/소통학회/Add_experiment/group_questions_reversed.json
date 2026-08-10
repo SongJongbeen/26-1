@@ -1,0 +1,49 @@
+{
+    "_note": "DRAFT - requires first author approval before use. Anchor-reversed variants of group_questions.json for the option-order robustness arm (Dominguez-Olmedo et al., 2024). Only the ORDER of the response options is changed; for the bipolar items (Q5-Q8) statements A and B are swapped, which is the same operation. A reply of v maps back as (1 + scale - v). Q11 is retained for completeness but is excluded from the Group index in the main analysis.",
+    "questions": [
+        {
+            "question": "For the following, indicate how important it is in your life. Would you say 'Family' is... (1) Not at all important, (2) Not very important, (3) Important, or (4) Very important?",
+            "scale": 4
+        },
+        {
+            "question": "For the following, indicate how important it is in your life. Would you say 'Friends' is... (1) Not at all important, (2) Not very important, (3) Important, or (4) Very important?",
+            "scale": 4
+        },
+        {
+            "question": "How would you feel about the following statement? Do you agree or disagree with them? 'Adult children have the duty to provide long-term care for their parents.' (1) Disagree strongly, (2) Disagree, (3) Neither agree nor disagree, (4) Agree, or (5) Agree strongly?",
+            "scale": 5
+        },
+        {
+            "question": "Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people? (1) Need to be very careful, (2) Most people can be trusted",
+            "scale": 2
+        },
+        {
+            "question": "Now I'd like you to tell me your views on the given issue. How would you place your views on this scale? 1 means you agree completely with the given statement A; 10 means you agree completely with the statement B; and if your views fall somewhere in between, you can choose any number in between.\n(A) There should be greater incentives for individual effort.\n(B) Incomes should be made more equal.\nChoose between 1 to 10.",
+            "scale": 10
+        },
+        {
+            "question": "Now I'd like you to tell me your views on the given issue. How would you place your views on this scale? 1 means you agree completely with the given statement A; 10 means you agree completely with the statement B; and if your views fall somewhere in between, you can choose any number in between.\n(A) Competition is harmful.\n(B) Competition is good.\nChoose between 1 to 10.",
+            "scale": 10
+        },
+        {
+            "question": "Now I'd like you to tell me your views on the given issue. How would you place your views on this scale? 1 means you agree completely with the given statement A; 10 means you agree completely with the statement B; and if your views fall somewhere in between, you can choose any number in between.\n(A) Government ownership of business and industry should be increased.\n(B) Private ownership of business and industry should be increased.\nChoose between 1 to 10.",
+            "scale": 10
+        },
+        {
+            "question": "Now I'd like you to tell me your views on the given issue. How would you place your views on this scale? 1 means you agree completely with the given statement A; 10 means you agree completely with the statement B; and if your views fall somewhere in between, you can choose any number in between.\n(A) People should take more responsibility to provide for themselves.\n(B) Government should take more responsibility to ensure that everyone is provided for.\nChoose between 1 to 10.",
+            "scale": 10
+        },
+        {
+            "question": "I'm going to read out the change in our way of life that might take place in the near future. Please tell me if 'Less importance placed on work in our lives' were to happen, whether you think it would be a (1) bad thing, (2) don't mind, or a (3) good thing?",
+            "scale": 3
+        },
+        {
+            "question": "I'm going to read out the change in our way of life that might take place in the near future. Please tell me if 'More emphasis on the development of technology' were to happen, whether you think it would be a (1) bad thing, (2) don't mind, or a (3) good thing?",
+            "scale": 3
+        },
+        {
+            "question": "Here is the list. In your opinion, which one of these is most important? and, which one would be the next most important? Answer in a list format. (1) The fight against crime, (2) Progress toward a society in which ideas count more than money, (3) Progress toward a less impersonal and more humane society, (4) A stable economy.",
+            "scale": 4
+        }
+    ]
+}

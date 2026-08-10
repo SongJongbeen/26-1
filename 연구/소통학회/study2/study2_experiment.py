@@ -65,7 +65,7 @@ def query_model(model_name, system_prompt, user_prompt, max_retries=3):
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt}
         ],
-        "temperature": 0.0, # 구조적 편향성 추출을 위해 무작위성 배제
+        "temperature": 0.0,
         "top_p": 1.0,
         "max_tokens": 1000 
     }
@@ -84,25 +84,25 @@ def query_model(model_name, system_prompt, user_prompt, max_retries=3):
             
             if message_content is None:
                 finish_reason = result['choices'][0].get('finish_reason', 'unknown')
-                raise ValueError(f"모델이 빈 응답을 반환했습니다. (이유: {finish_reason})")
+                raise ValueError(f"모델이 빈 응답을 반환함. (이유: {finish_reason})")
                 
             answer_text = message_content.strip()
             
             # 모델이 숫자 외의 부연설명을 붙이는 경우를 대비해 첫 번째 연속된 숫자(1~5)만 추출
             match = re.search(r'[1-5]', answer_text)
             if not match:
-                raise ValueError(f"응답에서 1~5 사이의 숫자를 찾을 수 없습니다. (원본: {answer_text})")
+                raise ValueError(f"응답에서 1~5 사이의 숫자를 찾을 수 없음. (원본: {answer_text})")
                 
             return int(match.group())
             
         except Exception as e:
             print(f"  ↪ [재시도 {attempt+1}/{max_retries}] 통신 오류: {e}")
             if "400" in str(e):
-                print("  💡 400 에러: 지원되지 않는 Model ID일 수 있습니다.")
+                print("존재하지 않는 모델 ID")
                 break 
             time.sleep(2)
             
-    print(f"  ❌ [{model_name}] 해당 문항 응답 실패 -> 결측치(None) 처리")
+    print(f"!!!!! [{model_name}] 해당 문항 응답 실패 -> 결측치(None) 처리 !!!!!")
     return None
 
 def run_experiment():
@@ -120,11 +120,11 @@ def run_experiment():
 
     for model in MODELS:
         print(f"\n=========================================")
-        print(f"🤖 [{model}] 평가 시작")
+        print(f"[{model}] 평가 시작...")
         print(f"=========================================")
         
         for issue in RISK_ISSUES:
-            print(f"\n 📌 현재 위험 주제: {issue}")
+            print(f"\n !!!!! 현재 위험 주제: {issue} !!!!!")
             
             # 행(Row) 데이터 초기화
             row_data = {
@@ -156,8 +156,7 @@ def run_experiment():
             df_temp = pd.DataFrame(results)
             df_temp.to_csv("study2_risk_perception_results.csv", index=False, encoding='utf-8-sig')
 
-    print("\n✅ 모든 실험이 성공적으로 완료되었습니다!")
-    print("📊 결과가 'study2_risk_perception_results.csv' 파일에 저장되었습니다.")
+    print("\n실험 종료...")
 
 if __name__ == "__main__":
     run_experiment()
